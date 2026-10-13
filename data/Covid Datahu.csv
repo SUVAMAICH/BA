@@ -875,12 +875,12 @@ Guinea,Sep  ,2021,335
 Guinea,Oct  ,2021,379
 Guinea,Nov  ,2021,385
 Guinea,Dec  ,2021,387
-Réunion,Jul  ,2021,237
-Réunion,Aug  ,2021,275
-Réunion,Sep  ,2021,342
-Réunion,Oct  ,2021,366
-Réunion,Nov  ,2021,374
-Réunion,Dec  ,2021,384
+RÃ©union,Jul  ,2021,237
+RÃ©union,Aug  ,2021,275
+RÃ©union,Sep  ,2021,342
+RÃ©union,Oct  ,2021,366
+RÃ©union,Nov  ,2021,374
+RÃ©union,Dec  ,2021,384
 Congo,Jul  ,2021,166
 Congo,Aug  ,2021,178
 Congo,Sep  ,2021,183
@@ -989,12 +989,12 @@ Mayotte,Sep  ,2021,175
 Mayotte,Oct  ,2021,178
 Mayotte,Nov  ,2021,185
 Mayotte,Dec  ,2021,185
-Curaçao,Jul  ,2021,126
-Curaçao,Aug  ,2021,126
-Curaçao,Sep  ,2021,143
-Curaçao,Oct  ,2021,162
-Curaçao,Nov  ,2021,174
-Curaçao,Dec  ,2021,178
+CuraÃ§ao,Jul  ,2021,126
+CuraÃ§ao,Aug  ,2021,126
+CuraÃ§ao,Sep  ,2021,143
+CuraÃ§ao,Oct  ,2021,162
+CuraÃ§ao,Nov  ,2021,174
+CuraÃ§ao,Dec  ,2021,178
 Chad,Jul  ,2021,174
 Chad,Aug  ,2021,174
 Chad,Sep  ,2021,174
@@ -1151,12 +1151,12 @@ Brunei,Sep  ,2021,9
 Brunei,Oct  ,2021,32
 Brunei,Nov  ,2021,54
 Brunei,Dec  ,2021,57
-São Tomé and Príncipe,Jul  ,2021,37
-São Tomé and Príncipe,Aug  ,2021,37
-São Tomé and Príncipe,Sep  ,2021,37
-São Tomé and Príncipe,Oct  ,2021,50
-São Tomé and Príncipe,Nov  ,2021,56
-São Tomé and Príncipe,Dec  ,2021,56
+SÃ£o TomÃ© and PrÃ­ncipe,Jul  ,2021,37
+SÃ£o TomÃ© and PrÃ­ncipe,Aug  ,2021,37
+SÃ£o TomÃ© and PrÃ­ncipe,Sep  ,2021,37
+SÃ£o TomÃ© and PrÃ­ncipe,Oct  ,2021,50
+SÃ£o TomÃ© and PrÃ­ncipe,Nov  ,2021,56
+SÃ£o TomÃ© and PrÃ­ncipe,Dec  ,2021,56
 New Zealand,Jul  ,2021,26
 New Zealand,Aug  ,2021,26
 New Zealand,Sep  ,2021,26
@@ -1247,12 +1247,12 @@ Cayman Islands,Sep  ,2021,2
 Cayman Islands,Oct  ,2021,2
 Cayman Islands,Nov  ,2021,2
 Cayman Islands,Dec  ,2021,5
-Saint Barthélemy,Jul  ,2021,1
-Saint Barthélemy,Aug  ,2021,1
-Saint Barthélemy,Sep  ,2021,1
-Saint Barthélemy,Oct  ,2021,2
-Saint Barthélemy,Nov  ,2021,4
-Saint Barthélemy,Dec  ,2021,4
+Saint BarthÃ©lemy,Jul  ,2021,1
+Saint BarthÃ©lemy,Aug  ,2021,1
+Saint BarthÃ©lemy,Sep  ,2021,1
+Saint BarthÃ©lemy,Oct  ,2021,2
+Saint BarthÃ©lemy,Nov  ,2021,4
+Saint BarthÃ©lemy,Dec  ,2021,4
 Anguilla,Jul  ,2021,0
 Anguilla,Aug  ,2021,0
 Anguilla,Sep  ,2021,0
@@ -1844,9 +1844,9 @@ Lesotho,Mar  ,2022,697
 Qatar,Jan  ,2022,618
 Qatar,Feb  ,2022,645
 Qatar,Mar  ,2022,670
-Réunion,Jan  ,2022,409
-Réunion,Feb  ,2022,500
-Réunion,Mar  ,2022,666
+RÃ©union,Jan  ,2022,409
+RÃ©union,Feb  ,2022,500
+RÃ©union,Mar  ,2022,666
 Belize,Jan  ,2022,598
 Belize,Feb  ,2022,625
 Belize,Mar  ,2022,650
@@ -1907,9 +1907,9 @@ Liberia,Mar  ,2022,294
 Togo,Jan  ,2022,248
 Togo,Feb  ,2022,268
 Togo,Mar  ,2022,272
-Curaçao,Jan  ,2022,189
-Curaçao,Feb  ,2022,229
-Curaçao,Mar  ,2022,261
+CuraÃ§ao,Jan  ,2022,189
+CuraÃ§ao,Feb  ,2022,229
+CuraÃ§ao,Mar  ,2022,261
 Nicaragua,Jan  ,2022,217
 Nicaragua,Feb  ,2022,220
 Nicaragua,Mar  ,2022,224
@@ -2000,9 +2000,9 @@ Brunei,Mar  ,2022,76
 Liechtenstein,Jan  ,2022,69
 Liechtenstein,Feb  ,2022,71
 Liechtenstein,Mar  ,2022,75
-São Tomé and Príncipe,Jan  ,2022,57
-São Tomé and Príncipe,Feb  ,2022,69
-São Tomé and Príncipe,Mar  ,2022,72
+SÃ£o TomÃ© and PrÃ­ncipe,Jan  ,2022,57
+SÃ£o TomÃ© and PrÃ­ncipe,Feb  ,2022,69
+SÃ£o TomÃ© and PrÃ­ncipe,Mar  ,2022,72
 British Virgin Islands,Jan  ,2022,39
 British Virgin Islands,Feb  ,2022,49
 British Virgin Islands,Mar  ,2022,62
@@ -2066,9 +2066,9 @@ Bhutan,Mar  ,2022,6
 Palau,Jan  ,2022,0
 Palau,Feb  ,2022,0
 Palau,Mar  ,2022,6
-Saint Barthélemy,Jan  ,2022,4
-Saint Barthélemy,Feb  ,2022,4
-Saint Barthélemy,Mar  ,2022,4
+Saint BarthÃ©lemy,Jan  ,2022,4
+Saint BarthÃ©lemy,Feb  ,2022,4
+Saint BarthÃ©lemy,Mar  ,2022,4
 Sint Eustatius,Jan  ,2022,0
 Sint Eustatius,Feb  ,2022,1
 Sint Eustatius,Mar  ,2022,3
