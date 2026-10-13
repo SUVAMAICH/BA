@@ -1,0 +1,2134 @@
+Location,Month,Year,Cases
+United States,Jul  ,2021,600853
+United States,Aug  ,2021,610606
+United States,Sep  ,2021,642770
+United States,Oct  ,2021,697430
+United States,Nov  ,2021,743217
+United States,Dec  ,2021,774868
+Brazil,Jul  ,2021,515985
+Brazil,Aug  ,2021,555460
+Brazil,Sep  ,2021,579574
+Brazil,Oct  ,2021,596122
+Brazil,Nov  ,2021,607694
+Brazil,Dec  ,2021,614376
+India,Jul  ,2021,399459
+India,Aug  ,2021,424351
+India,Sep  ,2021,439020
+India,Oct  ,2021,448339
+India,Nov  ,2021,458437
+India,Dec  ,2021,469247
+Mexico,Jul  ,2021,238055
+Mexico,Aug  ,2021,245959
+Mexico,Sep  ,2021,267253
+Mexico,Oct  ,2021,283091
+Mexico,Nov  ,2021,290717
+Mexico,Dec  ,2021,293950
+Russia,Jul  ,2021,135886
+Russia,Aug  ,2021,159352
+Russia,Sep  ,2021,184014
+Russia,Oct  ,2021,208142
+Russia,Nov  ,2021,239693
+Russia,Dec  ,2021,276419
+Peru,Jul  ,2021,192331
+Peru,Aug  ,2021,196291
+Peru,Sep  ,2021,198263
+Peru,Oct  ,2021,199367
+Peru,Nov  ,2021,200217
+Peru,Dec  ,2021,201144
+United Kingdom,Jul  ,2021,128140
+United Kingdom,Aug  ,2021,129654
+United Kingdom,Sep  ,2021,132535
+United Kingdom,Oct  ,2021,136662
+United Kingdom,Nov  ,2021,140632
+United Kingdom,Dec  ,2021,144969
+Indonesia,Jul  ,2021,58995
+Indonesia,Aug  ,2021,95723
+Indonesia,Sep  ,2021,133676
+Indonesia,Oct  ,2021,142026
+Indonesia,Nov  ,2021,143423
+Indonesia,Dec  ,2021,143840
+Italy,Jul  ,2021,127566
+Italy,Aug  ,2021,128063
+Italy,Sep  ,2021,129221
+Italy,Oct  ,2021,130921
+Italy,Nov  ,2021,132100
+Italy,Dec  ,2021,133828
+Iran,Jul  ,2021,84264
+Iran,Aug  ,2021,90630
+Iran,Sep  ,2021,107794
+Iran,Oct  ,2021,120428
+Iran,Nov  ,2021,126303
+Iran,Dec  ,2021,129830
+Colombia,Jul  ,2021,105934
+Colombia,Aug  ,2021,120432
+Colombia,Sep  ,2021,124883
+Colombia,Oct  ,2021,126261
+Colombia,Nov  ,2021,127258
+Colombia,Dec  ,2021,128473
+France,Jul  ,2021,110133
+France,Aug  ,2021,110795
+France,Sep  ,2021,112743
+France,Oct  ,2021,114447
+France,Nov  ,2021,115244
+France,Dec  ,2021,116655
+Argentina,Jul  ,2021,93668
+Argentina,Aug  ,2021,105586
+Argentina,Sep  ,2021,111607
+Argentina,Oct  ,2021,115179
+Argentina,Nov  ,2021,115950
+Argentina,Dec  ,2021,116554
+Germany,Jul  ,2021,90938
+Germany,Aug  ,2021,91659
+Germany,Sep  ,2021,92223
+Germany,Oct  ,2021,93711
+Germany,Nov  ,2021,95752
+Germany,Dec  ,2021,101790
+South Africa,Jul  ,2021,60647
+South Africa,Aug  ,2021,72013
+South Africa,Sep  ,2021,82261
+South Africa,Oct  ,2021,87626
+South Africa,Nov  ,2021,89177
+South Africa,Dec  ,2021,89843
+Spain,Jul  ,2021,81744
+Spain,Aug  ,2021,82725
+Spain,Sep  ,2021,85574
+Spain,Oct  ,2021,87006
+Spain,Nov  ,2021,87568
+Spain,Dec  ,2021,88052
+Ukraine,Jul  ,2021,52391
+Ukraine,Aug  ,2021,52951
+Ukraine,Sep  ,2021,53833
+Ukraine,Oct  ,2021,56446
+Ukraine,Nov  ,2021,68027
+Ukraine,Dec  ,2021,86532
+Poland,Jul  ,2021,75058
+Poland,Aug  ,2021,75271
+Poland,Sep  ,2021,75368
+Poland,Oct  ,2021,75673
+Poland,Nov  ,2021,77019
+Poland,Dec  ,2021,84153
+Turkey,Jul  ,2021,49732
+Turkey,Aug  ,2021,51332
+Turkey,Sep  ,2021,56710
+Turkey,Oct  ,2021,64054
+Turkey,Nov  ,2021,70611
+Turkey,Dec  ,2021,76842
+Romania,Jul  ,2021,33786
+Romania,Aug  ,2021,34281
+Romania,Sep  ,2021,34570
+Romania,Oct  ,2021,37041
+Romania,Nov  ,2021,47751
+Romania,Dec  ,2021,56529
+Philippines,Jul  ,2021,24662
+Philippines,Aug  ,2021,27889
+Philippines,Sep  ,2021,33448
+Philippines,Oct  ,2021,38294
+Philippines,Nov  ,2021,43172
+Philippines,Dec  ,2021,48545
+Chile,Jul  ,2021,32545
+Chile,Aug  ,2021,35448
+Chile,Sep  ,2021,36937
+Chile,Oct  ,2021,37468
+Chile,Nov  ,2021,37757
+Chile,Dec  ,2021,38346
+Hungary,Jul  ,2021,29992
+Hungary,Aug  ,2021,30026
+Hungary,Sep  ,2021,30059
+Hungary,Oct  ,2021,30199
+Hungary,Nov  ,2021,30881
+Hungary,Dec  ,2021,34713
+Ecuador,Jul  ,2021,21560
+Ecuador,Aug  ,2021,31631
+Ecuador,Sep  ,2021,32244
+Ecuador,Oct  ,2021,32767
+Ecuador,Nov  ,2021,32980
+Ecuador,Dec  ,2021,33250
+Czech Republic,Jul  ,2021,30439
+Czech Republic,Aug  ,2021,30455
+Czech Republic,Sep  ,2021,30483
+Czech Republic,Oct  ,2021,30528
+Czech Republic,Nov  ,2021,30863
+Czech Republic,Dec  ,2021,33186
+Malaysia,Jul  ,2021,5170
+Malaysia,Aug  ,2021,9024
+Malaysia,Sep  ,2021,16664
+Malaysia,Oct  ,2021,26335
+Malaysia,Nov  ,2021,28912
+Malaysia,Dec  ,2021,30425
+Canada,Jul  ,2021,26273
+Canada,Aug  ,2021,26592
+Canada,Sep  ,2021,26918
+Canada,Oct  ,2021,27819
+Canada,Nov  ,2021,28965
+Canada,Dec  ,2021,29670
+Pakistan,Jul  ,2021,22281
+Pakistan,Aug  ,2021,23360
+Pakistan,Sep  ,2021,25788
+Pakistan,Oct  ,2021,27729
+Pakistan,Nov  ,2021,28449
+Pakistan,Dec  ,2021,28728
+Bulgaria,Jul  ,2021,18061
+Bulgaria,Aug  ,2021,18213
+Bulgaria,Sep  ,2021,18896
+Bulgaria,Oct  ,2021,20882
+Bulgaria,Nov  ,2021,23999
+Bulgaria,Dec  ,2021,28453
+Bangladesh,Jul  ,2021,14646
+Bangladesh,Aug  ,2021,20916
+Bangladesh,Sep  ,2021,26274
+Bangladesh,Oct  ,2021,27531
+Bangladesh,Nov  ,2021,27870
+Bangladesh,Dec  ,2021,27981
+Belgium,Jul  ,2021,25181
+Belgium,Aug  ,2021,25251
+Belgium,Sep  ,2021,25388
+Belgium,Oct  ,2021,25613
+Belgium,Nov  ,2021,26053
+Belgium,Dec  ,2021,27015
+Tunisia,Jul  ,2021,14959
+Tunisia,Aug  ,2021,19858
+Tunisia,Sep  ,2021,23538
+Tunisia,Oct  ,2021,24890
+Tunisia,Nov  ,2021,25241
+Tunisia,Dec  ,2021,25373
+Vietnam,Jul  ,2021,87
+Vietnam,Aug  ,2021,1306
+Vietnam,Sep  ,2021,11064
+Vietnam,Oct  ,2021,19301
+Vietnam,Nov  ,2021,22083
+Vietnam,Dec  ,2021,25252
+Iraq,Jul  ,2021,17186
+Iraq,Aug  ,2021,18657
+Iraq,Sep  ,2021,20830
+Iraq,Oct  ,2021,22260
+Iraq,Nov  ,2021,23170
+Iraq,Dec  ,2021,23820
+Thailand,Jul  ,2021,2080
+Thailand,Aug  ,2021,4990
+Thailand,Sep  ,2021,11841
+Thailand,Oct  ,2021,16850
+Thailand,Nov  ,2021,19260
+Thailand,Dec  ,2021,20814
+Egypt,Jul  ,2021,16169
+Egypt,Aug  ,2021,16524
+Egypt,Sep  ,2021,16736
+Egypt,Oct  ,2021,17331
+Egypt,Nov  ,2021,18651
+Egypt,Dec  ,2021,20474
+Netherlands,Jul  ,2021,17744
+Netherlands,Aug  ,2021,17826
+Netherlands,Sep  ,2021,18010
+Netherlands,Oct  ,2021,18170
+Netherlands,Nov  ,2021,18411
+Netherlands,Dec  ,2021,19414
+Bolivia,Jul  ,2021,16702
+Bolivia,Aug  ,2021,17806
+Bolivia,Sep  ,2021,18429
+Bolivia,Oct  ,2021,18726
+Bolivia,Nov  ,2021,18925
+Bolivia,Dec  ,2021,19171
+Myanmar,Jul  ,2021,3347
+Myanmar,Aug  ,2021,9731
+Myanmar,Sep  ,2021,15490
+Myanmar,Oct  ,2021,17789
+Myanmar,Nov  ,2021,18714
+Myanmar,Dec  ,2021,19104
+Portugal,Jul  ,2021,17096
+Portugal,Aug  ,2021,17361
+Portugal,Sep  ,2021,17743
+Portugal,Oct  ,2021,17975
+Portugal,Nov  ,2021,18157
+Portugal,Dec  ,2021,18441
+Japan,Jul  ,2021,14781
+Japan,Aug  ,2021,15192
+Japan,Sep  ,2021,16041
+Japan,Oct  ,2021,17648
+Japan,Nov  ,2021,18268
+Japan,Dec  ,2021,18360
+Greece,Jul  ,2021,12763
+Greece,Aug  ,2021,13016
+Greece,Sep  ,2021,13698
+Greece,Oct  ,2021,14828
+Greece,Nov  ,2021,15938
+Greece,Dec  ,2021,18157
+Kazakhstan,Jul  ,2021,7759
+Kazakhstan,Aug  ,2021,9077
+Kazakhstan,Sep  ,2021,13732
+Kazakhstan,Oct  ,2021,16055
+Kazakhstan,Nov  ,2021,17150
+Kazakhstan,Dec  ,2021,17856
+Paraguay,Jul  ,2021,12763
+Paraguay,Aug  ,2021,14929
+Paraguay,Sep  ,2021,15742
+Paraguay,Oct  ,2021,16195
+Paraguay,Nov  ,2021,16246
+Paraguay,Dec  ,2021,16469
+Guatemala,Jul  ,2021,9215
+Guatemala,Aug  ,2021,10339
+Guatemala,Sep  ,2021,11926
+Guatemala,Oct  ,2021,13564
+Guatemala,Nov  ,2021,15050
+Guatemala,Dec  ,2021,15928
+Sweden,Jul  ,2021,14660
+Sweden,Aug  ,2021,14677
+Sweden,Sep  ,2021,14724
+Sweden,Oct  ,2021,14903
+Sweden,Nov  ,2021,15058
+Sweden,Dec  ,2021,15151
+Morocco,Jul  ,2021,9296
+Morocco,Aug  ,2021,9785
+Morocco,Sep  ,2021,12649
+Morocco,Oct  ,2021,14267
+Morocco,Nov  ,2021,14668
+Morocco,Dec  ,2021,14776
+Slovakia,Jul  ,2021,12511
+Slovakia,Aug  ,2021,12540
+Slovakia,Sep  ,2021,12548
+Slovakia,Oct  ,2021,12649
+Slovakia,Nov  ,2021,13045
+Slovakia,Dec  ,2021,14503
+Sri Lanka,Jul  ,2021,3063
+Sri Lanka,Aug  ,2021,4451
+Sri Lanka,Sep  ,2021,9400
+Sri Lanka,Oct  ,2021,12964
+Sri Lanka,Nov  ,2021,13760
+Sri Lanka,Dec  ,2021,14346
+Bosnia and Herzegovina,Jul  ,2021,9647
+Bosnia and Herzegovina,Aug  ,2021,9689
+Bosnia and Herzegovina,Sep  ,2021,9803
+Bosnia and Herzegovina,Oct  ,2021,10606
+Bosnia and Herzegovina,Nov  ,2021,11555
+Bosnia and Herzegovina,Dec  ,2021,12586
+Georgia,Jul  ,2021,5327
+Georgia,Aug  ,2021,5853
+Georgia,Sep  ,2021,7482
+Georgia,Oct  ,2021,8976
+Georgia,Nov  ,2021,10089
+Georgia,Dec  ,2021,12119
+Austria,Jul  ,2021,10508
+Austria,Aug  ,2021,10528
+Austria,Sep  ,2021,10583
+Austria,Oct  ,2021,10810
+Austria,Nov  ,2021,11114
+Austria,Dec  ,2021,12064
+Serbia,Jul  ,2021,7047
+Serbia,Aug  ,2021,7114
+Serbia,Sep  ,2021,7292
+Serbia,Oct  ,2021,8234
+Serbia,Nov  ,2021,9955
+Serbia,Dec  ,2021,11691
+Jordan,Jul  ,2021,9750
+Jordan,Aug  ,2021,10032
+Jordan,Sep  ,2021,10411
+Jordan,Oct  ,2021,10718
+Jordan,Nov  ,2021,11038
+Jordan,Dec  ,2021,11608
+Nepal,Jul  ,2021,9145
+Nepal,Aug  ,2021,9875
+Nepal,Sep  ,2021,10770
+Nepal,Oct  ,2021,11148
+Nepal,Nov  ,2021,11416
+Nepal,Dec  ,2021,11529
+Switzerland,Jul  ,2021,10366
+Switzerland,Aug  ,2021,10387
+Switzerland,Sep  ,2021,10489
+Switzerland,Oct  ,2021,10683
+Switzerland,Nov  ,2021,10834
+Switzerland,Dec  ,2021,11091
+Croatia,Jul  ,2021,8206
+Croatia,Aug  ,2021,8259
+Croatia,Sep  ,2021,8334
+Croatia,Oct  ,2021,8640
+Croatia,Nov  ,2021,9220
+Croatia,Dec  ,2021,10899
+Honduras,Jul  ,2021,6980
+Honduras,Aug  ,2021,7834
+Honduras,Sep  ,2021,8850
+Honduras,Oct  ,2021,9777
+Honduras,Nov  ,2021,10240
+Honduras,Dec  ,2021,10403
+Moldova,Jul  ,2021,6194
+Moldova,Aug  ,2021,6255
+Moldova,Sep  ,2021,6401
+Moldova,Oct  ,2021,6777
+Moldova,Nov  ,2021,7790
+Moldova,Dec  ,2021,9119
+Saudi Arabia,Jul  ,2021,7819
+Saudi Arabia,Aug  ,2021,8237
+Saudi Arabia,Sep  ,2021,8545
+Saudi Arabia,Oct  ,2021,8716
+Saudi Arabia,Nov  ,2021,8794
+Saudi Arabia,Dec  ,2021,8836
+Lebanon,Jul  ,2021,7851
+Lebanon,Aug  ,2021,7906
+Lebanon,Sep  ,2021,8053
+Lebanon,Oct  ,2021,8325
+Lebanon,Nov  ,2021,8502
+Lebanon,Dec  ,2021,8725
+Cuba,Jul  ,2021,1284
+Cuba,Aug  ,2021,2758
+Cuba,Sep  ,2021,5303
+Cuba,Oct  ,2021,7436
+Cuba,Nov  ,2021,8236
+Cuba,Dec  ,2021,8304
+Israel,Jul  ,2021,6430
+Israel,Aug  ,2021,6485
+Israel,Sep  ,2021,7118
+Israel,Oct  ,2021,7796
+Israel,Nov  ,2021,8114
+Israel,Dec  ,2021,8196
+Azerbaijan,Jul  ,2021,4974
+Azerbaijan,Aug  ,2021,5023
+Azerbaijan,Sep  ,2021,5636
+Azerbaijan,Oct  ,2021,6525
+Azerbaijan,Nov  ,2021,7074
+Azerbaijan,Dec  ,2021,7856
+Armenia,Jul  ,2021,4517
+Armenia,Aug  ,2021,4619
+Armenia,Sep  ,2021,4857
+Armenia,Oct  ,2021,5339
+Armenia,Nov  ,2021,6379
+Armenia,Dec  ,2021,7610
+North Macedonia,Jul  ,2021,5484
+North Macedonia,Aug  ,2021,5493
+North Macedonia,Sep  ,2021,5938
+North Macedonia,Oct  ,2021,6714
+North Macedonia,Nov  ,2021,7147
+North Macedonia,Dec  ,2021,7581
+Panama,Jul  ,2021,6536
+Panama,Aug  ,2021,6808
+Panama,Sep  ,2021,7054
+Panama,Oct  ,2021,7223
+Panama,Nov  ,2021,7315
+Panama,Dec  ,2021,7362
+Afghanistan,Jul  ,2021,4962
+Afghanistan,Aug  ,2021,6737
+Afghanistan,Sep  ,2021,7123
+Afghanistan,Oct  ,2021,7206
+Afghanistan,Nov  ,2021,7280
+Afghanistan,Dec  ,2021,7308
+Costa Rica,Jul  ,2021,4661
+Costa Rica,Aug  ,2021,5030
+Costa Rica,Sep  ,2021,5492
+Costa Rica,Oct  ,2021,6349
+Costa Rica,Nov  ,2021,7047
+Costa Rica,Dec  ,2021,7287
+Lithuania,Jul  ,2021,4392
+Lithuania,Aug  ,2021,4417
+Lithuania,Sep  ,2021,4573
+Lithuania,Oct  ,2021,5021
+Lithuania,Nov  ,2021,5921
+Lithuania,Dec  ,2021,6759
+Ethiopia,Jul  ,2021,4320
+Ethiopia,Aug  ,2021,4385
+Ethiopia,Sep  ,2021,4675
+Ethiopia,Oct  ,2021,5582
+Ethiopia,Nov  ,2021,6459
+Ethiopia,Dec  ,2021,6755
+Uruguay,Jul  ,2021,5558
+Uruguay,Aug  ,2021,5959
+Uruguay,Sep  ,2021,6029
+Uruguay,Oct  ,2021,6054
+Uruguay,Nov  ,2021,6077
+Uruguay,Dec  ,2021,6130
+Algeria,Jul  ,2021,3716
+Algeria,Aug  ,2021,4254
+Algeria,Sep  ,2021,5269
+Algeria,Oct  ,2021,5812
+Algeria,Nov  ,2021,5920
+Algeria,Dec  ,2021,6071
+China,Jul  ,2021,5495
+China,Aug  ,2021,5635
+China,Sep  ,2021,5683
+China,Oct  ,2021,5691
+China,Nov  ,2021,5696
+China,Dec  ,2021,5697
+Ireland,Jul  ,2021,4998
+Ireland,Aug  ,2021,5035
+Ireland,Sep  ,2021,5092
+Ireland,Oct  ,2021,5249
+Ireland,Nov  ,2021,5436
+Ireland,Dec  ,2021,5652
+Slovenia,Jul  ,2021,4754
+Slovenia,Aug  ,2021,4764
+Slovenia,Sep  ,2021,4785
+Slovenia,Oct  ,2021,4915
+Slovenia,Nov  ,2021,5139
+Slovenia,Dec  ,2021,5551
+Libya,Jul  ,2021,3193
+Libya,Aug  ,2021,3509
+Libya,Sep  ,2021,4247
+Libya,Oct  ,2021,4651
+Libya,Nov  ,2021,5099
+Libya,Dec  ,2021,5456
+Kenya,Jul  ,2021,3634
+Kenya,Aug  ,2021,3931
+Kenya,Sep  ,2021,4726
+Kenya,Oct  ,2021,5123
+Kenya,Nov  ,2021,5281
+Kenya,Dec  ,2021,5335
+Venezuela,Jul  ,2021,3101
+Venezuela,Aug  ,2021,3576
+Venezuela,Sep  ,2021,4010
+Venezuela,Oct  ,2021,4454
+Venezuela,Nov  ,2021,4884
+Venezuela,Dec  ,2021,5144
+Belarus,Jul  ,2021,3143
+Belarus,Aug  ,2021,3454
+Belarus,Sep  ,2021,3780
+Belarus,Oct  ,2021,4143
+Belarus,Nov  ,2021,4631
+Belarus,Dec  ,2021,5081
+Palestine,Jul  ,2021,3831
+Palestine,Aug  ,2021,3872
+Palestine,Sep  ,2021,3948
+Palestine,Oct  ,2021,4366
+Palestine,Nov  ,2021,4681
+Palestine,Dec  ,2021,4803
+Zimbabwe,Jul  ,2021,1789
+Zimbabwe,Aug  ,2021,3532
+Zimbabwe,Sep  ,2021,4419
+Zimbabwe,Oct  ,2021,4623
+Zimbabwe,Nov  ,2021,4678
+Zimbabwe,Dec  ,2021,4707
+Dominican Republic,Jul  ,2021,3822
+Dominican Republic,Aug  ,2021,3963
+Dominican Republic,Sep  ,2021,4008
+Dominican Republic,Oct  ,2021,4046
+Dominican Republic,Nov  ,2021,4130
+Dominican Republic,Dec  ,2021,4204
+Latvia,Jul  ,2021,2513
+Latvia,Aug  ,2021,2556
+Latvia,Sep  ,2021,2578
+Latvia,Oct  ,2021,2717
+Latvia,Nov  ,2021,3250
+Latvia,Dec  ,2021,4179
+Oman,Jul  ,2021,3100
+Oman,Aug  ,2021,3836
+Oman,Sep  ,2021,4064
+Oman,Oct  ,2021,4096
+Oman,Nov  ,2021,4111
+Oman,Dec  ,2021,4113
+El Salvador,Jul  ,2021,2381
+El Salvador,Aug  ,2021,2629
+El Salvador,Sep  ,2021,2918
+El Salvador,Oct  ,2021,3234
+El Salvador,Nov  ,2021,3622
+El Salvador,Dec  ,2021,3776
+Zambia,Jul  ,2021,2199
+Zambia,Aug  ,2021,3389
+Zambia,Sep  ,2021,3602
+Zambia,Oct  ,2021,3648
+Zambia,Nov  ,2021,3661
+Zambia,Dec  ,2021,3667
+South Korea,Jul  ,2021,2021
+South Korea,Aug  ,2021,2098
+South Korea,Sep  ,2021,2292
+South Korea,Oct  ,2021,2497
+South Korea,Nov  ,2021,2859
+South Korea,Dec  ,2021,3658
+Namibia,Jul  ,2021,1521
+Namibia,Aug  ,2021,3044
+Namibia,Sep  ,2021,3244
+Namibia,Oct  ,2021,3511
+Namibia,Nov  ,2021,3552
+Namibia,Dec  ,2021,3573
+Puerto Rico,Jul  ,2021,2549
+Puerto Rico,Aug  ,2021,2580
+Puerto Rico,Sep  ,2021,2860
+Puerto Rico,Oct  ,2021,3149
+Puerto Rico,Nov  ,2021,3234
+Puerto Rico,Dec  ,2021,3270
+Uganda,Jul  ,2021,1061
+Uganda,Aug  ,2021,2696
+Uganda,Sep  ,2021,3014
+Uganda,Oct  ,2021,3161
+Uganda,Nov  ,2021,3215
+Uganda,Dec  ,2021,3252
+Sudan,Jul  ,2021,2760
+Sudan,Aug  ,2021,2780
+Sudan,Sep  ,2021,2793
+Sudan,Oct  ,2021,2878
+Sudan,Nov  ,2021,3046
+Sudan,Dec  ,2021,3159
+Albania,Jul  ,2021,2456
+Albania,Aug  ,2021,2457
+Albania,Sep  ,2021,2498
+Albania,Oct  ,2021,2698
+Albania,Nov  ,2021,2924
+Albania,Dec  ,2021,3096
+Nigeria,Jul  ,2021,2120
+Nigeria,Aug  ,2021,2149
+Nigeria,Sep  ,2021,2455
+Nigeria,Oct  ,2021,2721
+Nigeria,Nov  ,2021,2896
+Nigeria,Dec  ,2021,2977
+Kosovo,Jul  ,2021,2248
+Kosovo,Aug  ,2021,2256
+Kosovo,Sep  ,2021,2494
+Kosovo,Oct  ,2021,2943
+Kosovo,Nov  ,2021,2967
+Kosovo,Dec  ,2021,2974
+Cambodia,Jul  ,2021,602
+Cambodia,Aug  ,2021,1397
+Cambodia,Sep  ,2021,1903
+Cambodia,Oct  ,2021,2319
+Cambodia,Nov  ,2021,2788
+Cambodia,Dec  ,2021,2940
+Denmark,Jul  ,2021,2534
+Denmark,Aug  ,2021,2549
+Denmark,Sep  ,2021,2584
+Denmark,Oct  ,2021,2656
+Denmark,Nov  ,2021,2714
+Denmark,Dec  ,2021,2895
+Kyrgyzstan,Jul  ,2021,2009
+Kyrgyzstan,Aug  ,2021,2335
+Kyrgyzstan,Sep  ,2021,2532
+Kyrgyzstan,Oct  ,2021,2607
+Kyrgyzstan,Nov  ,2021,2672
+Kyrgyzstan,Dec  ,2021,2749
+Syria,Jul  ,2021,1876
+Syria,Aug  ,2021,1914
+Syria,Sep  ,2021,2013
+Syria,Oct  ,2021,2247
+Syria,Nov  ,2021,2566
+Syria,Dec  ,2021,2749
+Kuwait,Jul  ,2021,1969
+Kuwait,Aug  ,2021,2320
+Kuwait,Sep  ,2021,2419
+Kuwait,Oct  ,2021,2449
+Kuwait,Nov  ,2021,2461
+Kuwait,Dec  ,2021,2465
+Botswana,Jul  ,2021,1125
+Botswana,Aug  ,2021,1569
+Botswana,Sep  ,2021,2261
+Botswana,Oct  ,2021,2368
+Botswana,Nov  ,2021,2406
+Botswana,Dec  ,2021,2418
+Jamaica,Jul  ,2021,1075
+Jamaica,Aug  ,2021,1190
+Jamaica,Sep  ,2021,1518
+Jamaica,Oct  ,2021,1869
+Jamaica,Nov  ,2021,2236
+Jamaica,Dec  ,2021,2392
+Malawi,Jul  ,2021,1196
+Malawi,Aug  ,2021,1635
+Malawi,Sep  ,2021,2177
+Malawi,Oct  ,2021,2282
+Malawi,Nov  ,2021,2301
+Malawi,Dec  ,2021,2306
+Montenegro,Jul  ,2021,1610
+Montenegro,Aug  ,2021,1629
+Montenegro,Sep  ,2021,1720
+Montenegro,Oct  ,2021,1919
+Montenegro,Nov  ,2021,2100
+Montenegro,Dec  ,2021,2300
+United Arab Emirates,Jul  ,2021,1811
+United Arab Emirates,Aug  ,2021,1949
+United Arab Emirates,Sep  ,2021,2041
+United Arab Emirates,Oct  ,2021,2097
+United Arab Emirates,Nov  ,2021,2136
+United Arab Emirates,Dec  ,2021,2147
+Trinidad and Tobago,Jul  ,2021,833
+Trinidad and Tobago,Aug  ,2021,1070
+Trinidad and Tobago,Sep  ,2021,1285
+Trinidad and Tobago,Oct  ,2021,1474
+Trinidad and Tobago,Nov  ,2021,1696
+Trinidad and Tobago,Dec  ,2021,2134
+Australia,Jul  ,2021,910
+Australia,Aug  ,2021,923
+Australia,Sep  ,2021,1006
+Australia,Oct  ,2021,1289
+Australia,Nov  ,2021,1734
+Australia,Dec  ,2021,2006
+Yemen,Jul  ,2021,1361
+Yemen,Aug  ,2021,1375
+Yemen,Sep  ,2021,1472
+Yemen,Oct  ,2021,1721
+Yemen,Nov  ,2021,1889
+Yemen,Dec  ,2021,1950
+Mozambique,Jul  ,2021,878
+Mozambique,Aug  ,2021,1434
+Mozambique,Sep  ,2021,1864
+Mozambique,Oct  ,2021,1917
+Mozambique,Nov  ,2021,1930
+Mozambique,Dec  ,2021,1941
+Mongolia,Jul  ,2021,563
+Mongolia,Aug  ,2021,820
+Mongolia,Sep  ,2021,839
+Mongolia,Oct  ,2021,1222
+Mongolia,Nov  ,2021,1672
+Mongolia,Dec  ,2021,1932
+Senegal,Jul  ,2021,1166
+Senegal,Aug  ,2021,1353
+Senegal,Sep  ,2021,1765
+Senegal,Oct  ,2021,1858
+Senegal,Nov  ,2021,1878
+Senegal,Dec  ,2021,1885
+Cameroon,Jul  ,2021,1324
+Cameroon,Aug  ,2021,1334
+Cameroon,Sep  ,2021,1357
+Cameroon,Oct  ,2021,1459
+Cameroon,Nov  ,2021,1686
+Cameroon,Dec  ,2021,1804
+Estonia,Jul  ,2021,1269
+Estonia,Aug  ,2021,1272
+Estonia,Sep  ,2021,1293
+Estonia,Oct  ,2021,1357
+Estonia,Nov  ,2021,1540
+Estonia,Dec  ,2021,1803
+Angola,Jul  ,2021,900
+Angola,Aug  ,2021,1011
+Angola,Sep  ,2021,1217
+Angola,Oct  ,2021,1537
+Angola,Nov  ,2021,1710
+Angola,Dec  ,2021,1733
+Uzbekistan,Jul  ,2021,740
+Uzbekistan,Aug  ,2021,880
+Uzbekistan,Sep  ,2021,1088
+Uzbekistan,Oct  ,2021,1242
+Uzbekistan,Nov  ,2021,1325
+Uzbekistan,Dec  ,2021,1406
+Bahrain,Jul  ,2021,1352
+Bahrain,Aug  ,2021,1384
+Bahrain,Sep  ,2021,1388
+Bahrain,Oct  ,2021,1389
+Bahrain,Nov  ,2021,1393
+Bahrain,Dec  ,2021,1394
+Finland,Jul  ,2021,979
+Finland,Aug  ,2021,1001
+Finland,Sep  ,2021,1054
+Finland,Oct  ,2021,1116
+Finland,Nov  ,2021,1238
+Finland,Dec  ,2021,1348
+Rwanda,Jul  ,2021,427
+Rwanda,Aug  ,2021,808
+Rwanda,Sep  ,2021,1083
+Rwanda,Oct  ,2021,1273
+Rwanda,Nov  ,2021,1331
+Rwanda,Dec  ,2021,1342
+Somalia,Jul  ,2021,775
+Somalia,Aug  ,2021,811
+Somalia,Sep  ,2021,977
+Somalia,Oct  ,2021,1111
+Somalia,Nov  ,2021,1208
+Somalia,Dec  ,2021,1327
+Eswatini,Jul  ,2021,678
+Eswatini,Aug  ,2021,787
+Eswatini,Sep  ,2021,1101
+Eswatini,Oct  ,2021,1220
+Eswatini,Nov  ,2021,1242
+Eswatini,Dec  ,2021,1248
+Ghana,Jul  ,2021,796
+Ghana,Aug  ,2021,823
+Ghana,Sep  ,2021,1036
+Ghana,Oct  ,2021,1156
+Ghana,Nov  ,2021,1175
+Ghana,Dec  ,2021,1209
+Suriname,Jul  ,2021,516
+Suriname,Aug  ,2021,645
+Suriname,Sep  ,2021,718
+Suriname,Oct  ,2021,879
+Suriname,Nov  ,2021,1090
+Suriname,Dec  ,2021,1166
+DR Congo,Jul  ,2021,924
+DR Congo,Aug  ,2021,1038
+DR Congo,Sep  ,2021,1059
+DR Congo,Oct  ,2021,1084
+DR Congo,Nov  ,2021,1098
+DR Congo,Dec  ,2021,1107
+Norway,Jul  ,2021,792
+Norway,Aug  ,2021,799
+Norway,Sep  ,2021,820
+Norway,Oct  ,2021,869
+Norway,Nov  ,2021,917
+Norway,Dec  ,2021,1054
+Guyana,Jul  ,2021,468
+Guyana,Aug  ,2021,535
+Guyana,Sep  ,2021,613
+Guyana,Oct  ,2021,783
+Guyana,Nov  ,2021,913
+Guyana,Dec  ,2021,992
+Madagascar,Jul  ,2021,909
+Madagascar,Aug  ,2021,947
+Madagascar,Sep  ,2021,956
+Madagascar,Oct  ,2021,960
+Madagascar,Nov  ,2021,963
+Madagascar,Dec  ,2021,967
+Luxembourg,Jul  ,2021,818
+Luxembourg,Aug  ,2021,822
+Luxembourg,Sep  ,2021,830
+Luxembourg,Oct  ,2021,835
+Luxembourg,Nov  ,2021,845
+Luxembourg,Dec  ,2021,875
+Mauritania,Jul  ,2021,489
+Mauritania,Aug  ,2021,562
+Mauritania,Sep  ,2021,715
+Mauritania,Oct  ,2021,774
+Mauritania,Nov  ,2021,797
+Mauritania,Dec  ,2021,832
+Guadeloupe,Jul  ,2021,267
+Guadeloupe,Aug  ,2021,283
+Guadeloupe,Sep  ,2021,508
+Guadeloupe,Oct  ,2021,767
+Guadeloupe,Nov  ,2021,820
+Guadeloupe,Dec  ,2021,823
+Haiti,Jul  ,2021,443
+Haiti,Aug  ,2021,558
+Haiti,Sep  ,2021,586
+Haiti,Oct  ,2021,629
+Haiti,Nov  ,2021,679
+Haiti,Dec  ,2021,738
+Tanzania,Jul  ,2021,21
+Tanzania,Aug  ,2021,21
+Tanzania,Sep  ,2021,50
+Tanzania,Oct  ,2021,719
+Tanzania,Nov  ,2021,725
+Tanzania,Dec  ,2021,730
+Singapore,Jul  ,2021,36
+Singapore,Aug  ,2021,37
+Singapore,Sep  ,2021,55
+Singapore,Oct  ,2021,95
+Singapore,Nov  ,2021,407
+Singapore,Dec  ,2021,718
+Martinique,Jul  ,2021,98
+Martinique,Aug  ,2021,129
+Martinique,Sep  ,2021,460
+Martinique,Oct  ,2021,628
+Martinique,Nov  ,2021,683
+Martinique,Dec  ,2021,715
+Ivory Coast,Jul  ,2021,313
+Ivory Coast,Aug  ,2021,329
+Ivory Coast,Sep  ,2021,441
+Ivory Coast,Oct  ,2021,624
+Ivory Coast,Nov  ,2021,695
+Ivory Coast,Dec  ,2021,704
+Fiji,Jul  ,2021,21
+Fiji,Aug  ,2021,239
+Fiji,Sep  ,2021,496
+Fiji,Oct  ,2021,624
+Fiji,Nov  ,2021,674
+Fiji,Dec  ,2021,696
+Bahamas,Jul  ,2021,246
+Bahamas,Aug  ,2021,287
+Bahamas,Sep  ,2021,381
+Bahamas,Oct  ,2021,533
+Bahamas,Nov  ,2021,643
+Bahamas,Dec  ,2021,671
+Lesotho,Jul  ,2021,329
+Lesotho,Aug  ,2021,374
+Lesotho,Sep  ,2021,403
+Lesotho,Oct  ,2021,632
+Lesotho,Nov  ,2021,658
+Lesotho,Dec  ,2021,662
+French Polynesia,Jul  ,2021,142
+French Polynesia,Aug  ,2021,149
+French Polynesia,Sep  ,2021,423
+French Polynesia,Oct  ,2021,621
+French Polynesia,Nov  ,2021,636
+French Polynesia,Dec  ,2021,636
+Qatar,Jul  ,2021,590
+Qatar,Aug  ,2021,601
+Qatar,Sep  ,2021,602
+Qatar,Oct  ,2021,606
+Qatar,Nov  ,2021,610
+Qatar,Dec  ,2021,611
+Mali,Jul  ,2021,525
+Mali,Aug  ,2021,532
+Mali,Sep  ,2021,539
+Mali,Oct  ,2021,548
+Mali,Nov  ,2021,563
+Mali,Dec  ,2021,606
+Cyprus,Jul  ,2021,379
+Cyprus,Aug  ,2021,429
+Cyprus,Sep  ,2021,520
+Cyprus,Oct  ,2021,560
+Cyprus,Nov  ,2021,584
+Cyprus,Dec  ,2021,597
+Belize,Jul  ,2021,329
+Belize,Aug  ,2021,337
+Belize,Sep  ,2021,359
+Belize,Oct  ,2021,409
+Belize,Nov  ,2021,491
+Belize,Dec  ,2021,574
+Papua New Guinea,Jul  ,2021,174
+Papua New Guinea,Aug  ,2021,192
+Papua New Guinea,Sep  ,2021,192
+Papua New Guinea,Oct  ,2021,234
+Papua New Guinea,Nov  ,2021,370
+Papua New Guinea,Dec  ,2021,546
+Malta,Jul  ,2021,420
+Malta,Aug  ,2021,423
+Malta,Sep  ,2021,441
+Malta,Oct  ,2021,457
+Malta,Nov  ,2021,461
+Malta,Dec  ,2021,468
+Mauritius,Jul  ,2021,18
+Mauritius,Aug  ,2021,20
+Mauritius,Sep  ,2021,31
+Mauritius,Oct  ,2021,90
+Mauritius,Nov  ,2021,176
+Mauritius,Dec  ,2021,422
+Guinea,Jul  ,2021,171
+Guinea,Aug  ,2021,220
+Guinea,Sep  ,2021,335
+Guinea,Oct  ,2021,379
+Guinea,Nov  ,2021,385
+Guinea,Dec  ,2021,387
+Réunion,Jul  ,2021,237
+Réunion,Aug  ,2021,275
+Réunion,Sep  ,2021,342
+Réunion,Oct  ,2021,366
+Réunion,Nov  ,2021,374
+Réunion,Dec  ,2021,384
+Congo,Jul  ,2021,166
+Congo,Aug  ,2021,178
+Congo,Sep  ,2021,183
+Congo,Oct  ,2021,197
+Congo,Nov  ,2021,278
+Congo,Dec  ,2021,354
+Cape Verde,Jul  ,2021,286
+Cape Verde,Aug  ,2021,298
+Cape Verde,Sep  ,2021,313
+Cape Verde,Oct  ,2021,339
+Cape Verde,Nov  ,2021,349
+Cape Verde,Dec  ,2021,350
+Gambia,Jul  ,2021,181
+Gambia,Aug  ,2021,213
+Gambia,Sep  ,2021,319
+Gambia,Oct  ,2021,338
+Gambia,Nov  ,2021,340
+Gambia,Dec  ,2021,342
+French Guiana,Jul  ,2021,145
+French Guiana,Aug  ,2021,187
+French Guiana,Sep  ,2021,219
+French Guiana,Oct  ,2021,267
+French Guiana,Nov  ,2021,308
+French Guiana,Dec  ,2021,327
+Liberia,Jul  ,2021,128
+Liberia,Aug  ,2021,148
+Liberia,Sep  ,2021,245
+Liberia,Oct  ,2021,286
+Liberia,Nov  ,2021,287
+Liberia,Dec  ,2021,287
+Burkina Faso,Jul  ,2021,168
+Burkina Faso,Aug  ,2021,169
+Burkina Faso,Sep  ,2021,171
+Burkina Faso,Oct  ,2021,184
+Burkina Faso,Nov  ,2021,214
+Burkina Faso,Dec  ,2021,286
+Saint Lucia,Jul  ,2021,84
+Saint Lucia,Aug  ,2021,89
+Saint Lucia,Sep  ,2021,103
+Saint Lucia,Oct  ,2021,201
+Saint Lucia,Nov  ,2021,255
+Saint Lucia,Dec  ,2021,280
+Gabon,Jul  ,2021,159
+Gabon,Aug  ,2021,164
+Gabon,Sep  ,2021,165
+Gabon,Oct  ,2021,186
+Gabon,Nov  ,2021,239
+Gabon,Dec  ,2021,279
+New Caledonia,Jul  ,2021,0
+New Caledonia,Aug  ,2021,0
+New Caledonia,Sep  ,2021,0
+New Caledonia,Oct  ,2021,119
+New Caledonia,Nov  ,2021,265
+New Caledonia,Dec  ,2021,276
+Guam,Jul  ,2021,140
+Guam,Aug  ,2021,143
+Guam,Sep  ,2021,149
+Guam,Oct  ,2021,197
+Guam,Nov  ,2021,238
+Guam,Dec  ,2021,263
+Niger,Jul  ,2021,193
+Niger,Aug  ,2021,195
+Niger,Sep  ,2021,199
+Niger,Oct  ,2021,202
+Niger,Nov  ,2021,213
+Niger,Dec  ,2021,259
+Maldives,Jul  ,2021,213
+Maldives,Aug  ,2021,221
+Maldives,Sep  ,2021,226
+Maldives,Oct  ,2021,231
+Maldives,Nov  ,2021,243
+Maldives,Dec  ,2021,250
+Togo,Jul  ,2021,129
+Togo,Aug  ,2021,152
+Togo,Sep  ,2021,185
+Togo,Oct  ,2021,229
+Togo,Nov  ,2021,242
+Togo,Dec  ,2021,243
+Barbados,Jul  ,2021,47
+Barbados,Aug  ,2021,48
+Barbados,Sep  ,2021,50
+Barbados,Oct  ,2021,69
+Barbados,Nov  ,2021,153
+Barbados,Dec  ,2021,229
+Nicaragua,Jul  ,2021,191
+Nicaragua,Aug  ,2021,195
+Nicaragua,Sep  ,2021,200
+Nicaragua,Oct  ,2021,204
+Nicaragua,Nov  ,2021,208
+Nicaragua,Dec  ,2021,213
+Grenada,Jul  ,2021,1
+Grenada,Aug  ,2021,1
+Grenada,Sep  ,2021,1
+Grenada,Oct  ,2021,139
+Grenada,Nov  ,2021,198
+Grenada,Dec  ,2021,200
+Djibouti,Jul  ,2021,155
+Djibouti,Aug  ,2021,156
+Djibouti,Sep  ,2021,157
+Djibouti,Oct  ,2021,167
+Djibouti,Nov  ,2021,181
+Djibouti,Dec  ,2021,186
+Mayotte,Jul  ,2021,174
+Mayotte,Aug  ,2021,174
+Mayotte,Sep  ,2021,175
+Mayotte,Oct  ,2021,178
+Mayotte,Nov  ,2021,185
+Mayotte,Dec  ,2021,185
+Curaçao,Jul  ,2021,126
+Curaçao,Aug  ,2021,126
+Curaçao,Sep  ,2021,143
+Curaçao,Oct  ,2021,162
+Curaçao,Nov  ,2021,174
+Curaçao,Dec  ,2021,178
+Chad,Jul  ,2021,174
+Chad,Aug  ,2021,174
+Chad,Sep  ,2021,174
+Chad,Oct  ,2021,174
+Chad,Nov  ,2021,174
+Chad,Dec  ,2021,175
+Equatorial Guinea,Jul  ,2021,121
+Equatorial Guinea,Aug  ,2021,123
+Equatorial Guinea,Sep  ,2021,124
+Equatorial Guinea,Oct  ,2021,147
+Equatorial Guinea,Nov  ,2021,167
+Equatorial Guinea,Dec  ,2021,175
+Aruba,Jul  ,2021,107
+Aruba,Aug  ,2021,109
+Aruba,Sep  ,2021,139
+Aruba,Oct  ,2021,166
+Aruba,Nov  ,2021,171
+Aruba,Dec  ,2021,174
+Laos,Jul  ,2021,3
+Laos,Aug  ,2021,7
+Laos,Sep  ,2021,14
+Laos,Oct  ,2021,18
+Laos,Nov  ,2021,65
+Laos,Dec  ,2021,170
+Benin,Jul  ,2021,104
+Benin,Aug  ,2021,108
+Benin,Sep  ,2021,128
+Benin,Oct  ,2021,159
+Benin,Nov  ,2021,161
+Benin,Dec  ,2021,161
+Comoros,Jul  ,2021,146
+Comoros,Aug  ,2021,147
+Comoros,Sep  ,2021,147
+Comoros,Oct  ,2021,147
+Comoros,Nov  ,2021,147
+Comoros,Dec  ,2021,150
+Guinea-Bissau,Jul  ,2021,69
+Guinea-Bissau,Aug  ,2021,76
+Guinea-Bissau,Sep  ,2021,119
+Guinea-Bissau,Oct  ,2021,135
+Guinea-Bissau,Nov  ,2021,141
+Guinea-Bissau,Dec  ,2021,148
+South Sudan,Jul  ,2021,117
+South Sudan,Aug  ,2021,119
+South Sudan,Sep  ,2021,120
+South Sudan,Oct  ,2021,130
+South Sudan,Nov  ,2021,133
+South Sudan,Dec  ,2021,133
+Andorra,Jul  ,2021,127
+Andorra,Aug  ,2021,128
+Andorra,Sep  ,2021,130
+Andorra,Oct  ,2021,130
+Andorra,Nov  ,2021,130
+Andorra,Dec  ,2021,131
+Tajikistan,Jul  ,2021,91
+Tajikistan,Aug  ,2021,122
+Tajikistan,Sep  ,2021,125
+Tajikistan,Oct  ,2021,125
+Tajikistan,Nov  ,2021,125
+Tajikistan,Dec  ,2021,125
+Seychelles,Jul  ,2021,57
+Seychelles,Aug  ,2021,86
+Seychelles,Sep  ,2021,102
+Seychelles,Oct  ,2021,112
+Seychelles,Nov  ,2021,114
+Seychelles,Dec  ,2021,122
+Timor-Leste,Jul  ,2021,24
+Timor-Leste,Aug  ,2021,26
+Timor-Leste,Sep  ,2021,72
+Timor-Leste,Oct  ,2021,117
+Timor-Leste,Nov  ,2021,122
+Timor-Leste,Dec  ,2021,122
+Sierra Leone,Jul  ,2021,100
+Sierra Leone,Aug  ,2021,120
+Sierra Leone,Sep  ,2021,121
+Sierra Leone,Oct  ,2021,121
+Sierra Leone,Nov  ,2021,121
+Sierra Leone,Dec  ,2021,121
+Antigua and Barbuda,Jul  ,2021,42
+Antigua and Barbuda,Aug  ,2021,43
+Antigua and Barbuda,Sep  ,2021,44
+Antigua and Barbuda,Oct  ,2021,79
+Antigua and Barbuda,Nov  ,2021,102
+Antigua and Barbuda,Dec  ,2021,117
+Bermuda,Jul  ,2021,33
+Bermuda,Aug  ,2021,33
+Bermuda,Sep  ,2021,33
+Bermuda,Oct  ,2021,72
+Bermuda,Nov  ,2021,101
+Bermuda,Dec  ,2021,106
+Central African Republic,Jul  ,2021,98
+Central African Republic,Aug  ,2021,98
+Central African Republic,Sep  ,2021,100
+Central African Republic,Oct  ,2021,100
+Central African Republic,Nov  ,2021,100
+Central African Republic,Dec  ,2021,101
+Gibraltar,Jul  ,2021,94
+Gibraltar,Aug  ,2021,94
+Gibraltar,Sep  ,2021,97
+Gibraltar,Oct  ,2021,97
+Gibraltar,Nov  ,2021,98
+Gibraltar,Dec  ,2021,98
+San Marino,Jul  ,2021,90
+San Marino,Aug  ,2021,90
+San Marino,Sep  ,2021,90
+San Marino,Oct  ,2021,91
+San Marino,Nov  ,2021,92
+San Marino,Dec  ,2021,93
+U.S. Virgin Islands,Jul  ,2021,30
+U.S. Virgin Islands,Aug  ,2021,37
+U.S. Virgin Islands,Sep  ,2021,54
+U.S. Virgin Islands,Oct  ,2021,71
+U.S. Virgin Islands,Nov  ,2021,81
+U.S. Virgin Islands,Dec  ,2021,86
+Jersey,Jul  ,2021,69
+Jersey,Aug  ,2021,69
+Jersey,Sep  ,2021,77
+Jersey,Oct  ,2021,78
+Jersey,Nov  ,2021,80
+Jersey,Dec  ,2021,81
+Sint Maarten,Jul  ,2021,33
+Sint Maarten,Aug  ,2021,34
+Sint Maarten,Sep  ,2021,51
+Sint Maarten,Oct  ,2021,66
+Sint Maarten,Nov  ,2021,75
+Sint Maarten,Dec  ,2021,75
+Saint Vincent and the Grenadines,Jul  ,2021,12
+Saint Vincent and the Grenadines,Aug  ,2021,12
+Saint Vincent and the Grenadines,Sep  ,2021,12
+Saint Vincent and the Grenadines,Oct  ,2021,21
+Saint Vincent and the Grenadines,Nov  ,2021,66
+Saint Vincent and the Grenadines,Dec  ,2021,74
+Isle of Man,Jul  ,2021,39
+Isle of Man,Aug  ,2021,43
+Isle of Man,Sep  ,2021,48
+Isle of Man,Oct  ,2021,52
+Isle of Man,Nov  ,2021,57
+Isle of Man,Dec  ,2021,66
+Eritrea,Jul  ,2021,23
+Eritrea,Aug  ,2021,35
+Eritrea,Sep  ,2021,38
+Eritrea,Oct  ,2021,42
+Eritrea,Nov  ,2021,45
+Eritrea,Dec  ,2021,60
+Liechtenstein,Jul  ,2021,58
+Liechtenstein,Aug  ,2021,58
+Liechtenstein,Sep  ,2021,58
+Liechtenstein,Oct  ,2021,58
+Liechtenstein,Nov  ,2021,58
+Liechtenstein,Dec  ,2021,58
+Brunei,Jul  ,2021,3
+Brunei,Aug  ,2021,3
+Brunei,Sep  ,2021,9
+Brunei,Oct  ,2021,32
+Brunei,Nov  ,2021,54
+Brunei,Dec  ,2021,57
+São Tomé and Príncipe,Jul  ,2021,37
+São Tomé and Príncipe,Aug  ,2021,37
+São Tomé and Príncipe,Sep  ,2021,37
+São Tomé and Príncipe,Oct  ,2021,50
+São Tomé and Príncipe,Nov  ,2021,56
+São Tomé and Príncipe,Dec  ,2021,56
+New Zealand,Jul  ,2021,26
+New Zealand,Aug  ,2021,26
+New Zealand,Sep  ,2021,26
+New Zealand,Oct  ,2021,27
+New Zealand,Nov  ,2021,28
+New Zealand,Dec  ,2021,44
+British Virgin Islands,Jul  ,2021,1
+British Virgin Islands,Aug  ,2021,31
+British Virgin Islands,Sep  ,2021,37
+British Virgin Islands,Oct  ,2021,37
+British Virgin Islands,Nov  ,2021,37
+British Virgin Islands,Dec  ,2021,38
+Saint Martin,Jul  ,2021,27
+Saint Martin,Aug  ,2021,30
+Saint Martin,Sep  ,2021,17
+Saint Martin,Oct  ,2021,35
+Saint Martin,Nov  ,2021,37
+Saint Martin,Dec  ,2021,38
+Dominica,Jul  ,2021,0
+Dominica,Aug  ,2021,0
+Dominica,Sep  ,2021,4
+Dominica,Oct  ,2021,20
+Dominica,Nov  ,2021,32
+Dominica,Dec  ,2021,37
+Monaco,Jul  ,2021,33
+Monaco,Aug  ,2021,33
+Monaco,Sep  ,2021,35
+Monaco,Oct  ,2021,35
+Monaco,Nov  ,2021,36
+Monaco,Dec  ,2021,36
+Iceland,Jul  ,2021,30
+Iceland,Aug  ,2021,30
+Iceland,Sep  ,2021,33
+Iceland,Oct  ,2021,33
+Iceland,Nov  ,2021,33
+Iceland,Dec  ,2021,35
+Saint Kitts and Nevis,Jul  ,2021,3
+Saint Kitts and Nevis,Aug  ,2021,3
+Saint Kitts and Nevis,Sep  ,2021,3
+Saint Kitts and Nevis,Oct  ,2021,13
+Saint Kitts and Nevis,Nov  ,2021,23
+Saint Kitts and Nevis,Dec  ,2021,28
+Turks and Caicos Islands,Jul  ,2021,18
+Turks and Caicos Islands,Aug  ,2021,18
+Turks and Caicos Islands,Sep  ,2021,20
+Turks and Caicos Islands,Oct  ,2021,23
+Turks and Caicos Islands,Nov  ,2021,23
+Turks and Caicos Islands,Dec  ,2021,24
+Guernsey,Jul  ,2021,17
+Guernsey,Aug  ,2021,17
+Guernsey,Sep  ,2021,18
+Guernsey,Oct  ,2021,21
+Guernsey,Nov  ,2021,23
+Guernsey,Dec  ,2021,23
+Bonaire,Jul  ,2021,17
+Bonaire,Aug  ,2021,17
+Bonaire,Sep  ,2021,17
+Bonaire,Oct  ,2021,19
+Bonaire,Nov  ,2021,19
+Bonaire,Dec  ,2021,22
+Burundi,Jul  ,2021,8
+Burundi,Aug  ,2021,9
+Burundi,Sep  ,2021,10
+Burundi,Oct  ,2021,14
+Burundi,Nov  ,2021,14
+Burundi,Dec  ,2021,14
+Faroe Islands,Jul  ,2021,1
+Faroe Islands,Aug  ,2021,1
+Faroe Islands,Sep  ,2021,2
+Faroe Islands,Oct  ,2021,2
+Faroe Islands,Nov  ,2021,2
+Faroe Islands,Dec  ,2021,13
+Other,Jul  ,2021,13
+Other,Aug  ,2021,13
+Other,Sep  ,2021,13
+Other,Oct  ,2021,13
+Other,Nov  ,2021,13
+Other,Dec  ,2021,13
+Wallis and Futuna,Jul  ,2021,7
+Wallis and Futuna,Aug  ,2021,7
+Wallis and Futuna,Sep  ,2021,7
+Wallis and Futuna,Oct  ,2021,7
+Wallis and Futuna,Nov  ,2021,7
+Wallis and Futuna,Dec  ,2021,7
+Cayman Islands,Jul  ,2021,2
+Cayman Islands,Aug  ,2021,2
+Cayman Islands,Sep  ,2021,2
+Cayman Islands,Oct  ,2021,2
+Cayman Islands,Nov  ,2021,2
+Cayman Islands,Dec  ,2021,5
+Saint Barthélemy,Jul  ,2021,1
+Saint Barthélemy,Aug  ,2021,1
+Saint Barthélemy,Sep  ,2021,1
+Saint Barthélemy,Oct  ,2021,2
+Saint Barthélemy,Nov  ,2021,4
+Saint Barthélemy,Dec  ,2021,4
+Anguilla,Jul  ,2021,0
+Anguilla,Aug  ,2021,0
+Anguilla,Sep  ,2021,0
+Anguilla,Oct  ,2021,1
+Anguilla,Nov  ,2021,1
+Anguilla,Dec  ,2021,3
+Bhutan,Jul  ,2021,1
+Bhutan,Aug  ,2021,2
+Bhutan,Sep  ,2021,3
+Bhutan,Oct  ,2021,3
+Bhutan,Nov  ,2021,3
+Bhutan,Dec  ,2021,3
+Northern Mariana Islands,Jul  ,2021,2
+Northern Mariana Islands,Aug  ,2021,2
+Northern Mariana Islands,Sep  ,2021,2
+Northern Mariana Islands,Oct  ,2021,2
+Northern Mariana Islands,Nov  ,2021,3
+Northern Mariana Islands,Dec  ,2021,3
+Montserrat,Jul  ,2021,1
+Montserrat,Aug  ,2021,1
+Montserrat,Sep  ,2021,1
+Montserrat,Oct  ,2021,1
+Montserrat,Nov  ,2021,1
+Montserrat,Dec  ,2021,1
+American Samoa,Jul  ,2021,0
+American Samoa,Aug  ,2021,0
+American Samoa,Sep  ,2021,0
+American Samoa,Oct  ,2021,0
+American Samoa,Nov  ,2021,0
+American Samoa,Dec  ,2021,0
+Cook Islands,Jul  ,2021,0
+Cook Islands,Aug  ,2021,0
+Cook Islands,Sep  ,2021,0
+Cook Islands,Oct  ,2021,0
+Cook Islands,Nov  ,2021,0
+Cook Islands,Dec  ,2021,0
+North Korea,Jul  ,2021,0
+North Korea,Aug  ,2021,0
+North Korea,Sep  ,2021,0
+North Korea,Oct  ,2021,0
+North Korea,Nov  ,2021,0
+North Korea,Dec  ,2021,0
+Falkland Islands,Jul  ,2021,0
+Falkland Islands,Aug  ,2021,0
+Falkland Islands,Sep  ,2021,0
+Falkland Islands,Oct  ,2021,0
+Falkland Islands,Nov  ,2021,0
+Falkland Islands,Dec  ,2021,0
+Greenland,Jul  ,2021,0
+Greenland,Aug  ,2021,0
+Greenland,Sep  ,2021,0
+Greenland,Oct  ,2021,0
+Greenland,Nov  ,2021,0
+Greenland,Dec  ,2021,0
+Holy See,Jul  ,2021,0
+Holy See,Aug  ,2021,0
+Holy See,Sep  ,2021,0
+Holy See,Oct  ,2021,0
+Holy See,Nov  ,2021,0
+Holy See,Dec  ,2021,0
+Kiribati,Jul  ,2021,0
+Kiribati,Aug  ,2021,0
+Kiribati,Sep  ,2021,0
+Kiribati,Oct  ,2021,0
+Kiribati,Nov  ,2021,0
+Kiribati,Dec  ,2021,0
+Marshall Islands,Jul  ,2021,0
+Marshall Islands,Aug  ,2021,0
+Marshall Islands,Sep  ,2021,0
+Marshall Islands,Oct  ,2021,0
+Marshall Islands,Nov  ,2021,0
+Marshall Islands,Dec  ,2021,0
+Federated States of Micronesia,Jul  ,2021,0
+Federated States of Micronesia,Aug  ,2021,0
+Federated States of Micronesia,Sep  ,2021,0
+Federated States of Micronesia,Oct  ,2021,0
+Federated States of Micronesia,Nov  ,2021,0
+Federated States of Micronesia,Dec  ,2021,0
+Nauru,Jul  ,2021,0
+Nauru,Aug  ,2021,0
+Nauru,Sep  ,2021,0
+Nauru,Oct  ,2021,0
+Nauru,Nov  ,2021,0
+Nauru,Dec  ,2021,0
+Niue,Jul  ,2021,0
+Niue,Aug  ,2021,0
+Niue,Sep  ,2021,0
+Niue,Oct  ,2021,0
+Niue,Nov  ,2021,0
+Niue,Dec  ,2021,0
+Palau,Jul  ,2021,0
+Palau,Aug  ,2021,0
+Palau,Sep  ,2021,0
+Palau,Oct  ,2021,0
+Palau,Nov  ,2021,0
+Palau,Dec  ,2021,0
+Pitcairn Islands,Jul  ,2021,0
+Pitcairn Islands,Aug  ,2021,0
+Pitcairn Islands,Sep  ,2021,0
+Pitcairn Islands,Oct  ,2021,0
+Pitcairn Islands,Nov  ,2021,0
+Pitcairn Islands,Dec  ,2021,0
+Saba,Jul  ,2021,0
+Saba,Aug  ,2021,0
+Saba,Sep  ,2021,0
+Saba,Oct  ,2021,0
+Saba,Nov  ,2021,0
+Saba,Dec  ,2021,0
+Saint Helena,Jul  ,2021,0
+Saint Helena,Aug  ,2021,0
+Saint Helena,Sep  ,2021,0
+Saint Helena,Oct  ,2021,0
+Saint Helena,Nov  ,2021,0
+Saint Helena,Dec  ,2021,0
+Saint Pierre and Miquelon,Jul  ,2021,0
+Saint Pierre and Miquelon,Aug  ,2021,0
+Saint Pierre and Miquelon,Sep  ,2021,0
+Saint Pierre and Miquelon,Oct  ,2021,0
+Saint Pierre and Miquelon,Nov  ,2021,0
+Saint Pierre and Miquelon,Dec  ,2021,0
+Samoa,Jul  ,2021,0
+Samoa,Aug  ,2021,0
+Samoa,Sep  ,2021,0
+Samoa,Oct  ,2021,0
+Samoa,Nov  ,2021,0
+Samoa,Dec  ,2021,0
+Sint Eustatius,Jul  ,2021,0
+Sint Eustatius,Aug  ,2021,0
+Sint Eustatius,Sep  ,2021,0
+Sint Eustatius,Oct  ,2021,0
+Sint Eustatius,Nov  ,2021,0
+Sint Eustatius,Dec  ,2021,0
+Solomon Islands,Jul  ,2021,0
+Solomon Islands,Aug  ,2021,0
+Solomon Islands,Sep  ,2021,0
+Solomon Islands,Oct  ,2021,0
+Solomon Islands,Nov  ,2021,0
+Solomon Islands,Dec  ,2021,0
+Tokelau,Jul  ,2021,0
+Tokelau,Aug  ,2021,0
+Tokelau,Sep  ,2021,0
+Tokelau,Oct  ,2021,0
+Tokelau,Nov  ,2021,0
+Tokelau,Dec  ,2021,0
+Tonga,Jul  ,2021,0
+Tonga,Aug  ,2021,0
+Tonga,Sep  ,2021,0
+Tonga,Oct  ,2021,0
+Tonga,Nov  ,2021,0
+Tonga,Dec  ,2021,0
+Turkmenistan,Jul  ,2021,0
+Turkmenistan,Aug  ,2021,0
+Turkmenistan,Sep  ,2021,0
+Turkmenistan,Oct  ,2021,0
+Turkmenistan,Nov  ,2021,0
+Turkmenistan,Dec  ,2021,0
+Tuvalu,Jul  ,2021,0
+Tuvalu,Aug  ,2021,0
+Tuvalu,Sep  ,2021,0
+Tuvalu,Oct  ,2021,0
+Tuvalu,Nov  ,2021,0
+Tuvalu,Dec  ,2021,0
+Vanuatu,Jul  ,2021,0
+Vanuatu,Aug  ,2021,0
+Vanuatu,Sep  ,2021,0
+Vanuatu,Oct  ,2021,0
+Vanuatu,Nov  ,2021,0
+Vanuatu,Dec  ,2021,0
+United States,Jan  ,2022,819197
+United States,Feb  ,2022,881867
+United States,Mar  ,2022,941112
+Brazil,Jan  ,2022,618984
+Brazil,Feb  ,2022,626854
+Brazil,Mar  ,2022,649134
+India,Jan  ,2022,481486
+India,Feb  ,2022,496242
+India,Mar  ,2022,514023
+Russia,Jan  ,2022,309707
+Russia,Feb  ,2022,332012
+Russia,Mar  ,2022,352446
+Mexico,Jan  ,2022,301663
+Mexico,Feb  ,2022,310131
+Mexico,Mar  ,2022,318149
+Peru,Jan  ,2022,202653
+Peru,Feb  ,2022,205505
+Peru,Mar  ,2022,210538
+United Kingdom,Jan  ,2022,149790
+United Kingdom,Feb  ,2022,157677
+United Kingdom,Mar  ,2022,161754
+Italy,Jan  ,2022,137402
+Italy,Feb  ,2022,146498
+Italy,Mar  ,2022,154767
+Indonesia,Jan  ,2022,144096
+Indonesia,Feb  ,2022,144348
+Indonesia,Mar  ,2022,148660
+Colombia,Jan  ,2022,129901
+Colombia,Feb  ,2022,134079
+Colombia,Mar  ,2022,138693
+Iran,Jan  ,2022,131606
+Iran,Feb  ,2022,132454
+Iran,Mar  ,2022,136838
+France,Jan  ,2022,121149
+France,Feb  ,2022,128120
+France,Mar  ,2022,135262
+Argentina,Jan  ,2022,117146
+Argentina,Feb  ,2022,120988
+Argentina,Mar  ,2022,126152
+Germany,Jan  ,2022,112109
+Germany,Feb  ,2022,117974
+Germany,Mar  ,2022,122937
+Poland,Jan  ,2022,97559
+Poland,Feb  ,2022,105435
+Poland,Mar  ,2022,111586
+Ukraine,Jan  ,2022,96089
+Ukraine,Feb  ,2022,100395
+Ukraine,Mar  ,2022,106129
+Spain,Jan  ,2022,90556
+Spain,Feb  ,2022,95902
+Spain,Mar  ,2022,99875
+South Africa,Jan  ,2022,91145
+South Africa,Feb  ,2022,95093
+South Africa,Mar  ,2022,99412
+Turkey,Jan  ,2022,82361
+Turkey,Feb  ,2022,87416
+Turkey,Mar  ,2022,94445
+Romania,Jan  ,2022,58752
+Romania,Feb  ,2022,60025
+Romania,Mar  ,2022,63414
+Philippines,Jan  ,2022,51504
+Philippines,Feb  ,2022,54003
+Philippines,Mar  ,2022,56451
+Hungary,Jan  ,2022,39186
+Hungary,Feb  ,2022,41471
+Hungary,Mar  ,2022,44051
+Chile,Jan  ,2022,39115
+Chile,Feb  ,2022,39721
+Chile,Mar  ,2022,42353
+Vietnam,Jan  ,2022,32394
+Vietnam,Feb  ,2022,37777
+Vietnam,Mar  ,2022,40252
+Czech Republic,Jan  ,2022,36324
+Czech Republic,Feb  ,2022,37347
+Czech Republic,Mar  ,2022,38750
+Canada,Jan  ,2022,30280
+Canada,Feb  ,2022,33722
+Canada,Mar  ,2022,36537
+Bulgaria,Jan  ,2022,30955
+Bulgaria,Feb  ,2022,33318
+Bulgaria,Mar  ,2022,35581
+Ecuador,Jan  ,2022,33672
+Ecuador,Feb  ,2022,34514
+Ecuador,Mar  ,2022,35244
+Malaysia,Jan  ,2022,31487
+Malaysia,Feb  ,2022,31978
+Malaysia,Mar  ,2022,32749
+Belgium,Jan  ,2022,28403
+Belgium,Feb  ,2022,29161
+Belgium,Mar  ,2022,30208
+Pakistan,Jan  ,2022,28927
+Pakistan,Feb  ,2022,29269
+Pakistan,Mar  ,2022,30178
+Bangladesh,Jan  ,2022,28076
+Bangladesh,Feb  ,2022,28425
+Bangladesh,Mar  ,2022,29045
+Tunisia,Jan  ,2022,25569
+Tunisia,Feb  ,2022,26288
+Tunisia,Mar  ,2022,27784
+Greece,Jan  ,2022,20790
+Greece,Feb  ,2022,23500
+Greece,Mar  ,2022,25860
+Iraq,Jan  ,2022,24158
+Iraq,Feb  ,2022,24389
+Iraq,Mar  ,2022,24989
+Egypt,Jan  ,2022,21752
+Egypt,Feb  ,2022,22635
+Egypt,Mar  ,2022,24074
+Japan,Jan  ,2022,18393
+Japan,Feb  ,2022,18792
+Japan,Mar  ,2022,23633
+Thailand,Jan  ,2022,21708
+Thailand,Feb  ,2022,22185
+Thailand,Mar  ,2022,22976
+Netherlands,Jan  ,2022,20920
+Netherlands,Feb  ,2022,21265
+Netherlands,Mar  ,2022,21554
+Bolivia,Jan  ,2022,19680
+Bolivia,Feb  ,2022,20919
+Bolivia,Mar  ,2022,21441
+Portugal,Jan  ,2022,18955
+Portugal,Feb  ,2022,19905
+Portugal,Mar  ,2022,21063
+Myanmar,Jan  ,2022,19272
+Myanmar,Feb  ,2022,19310
+Myanmar,Mar  ,2022,19372
+Kazakhstan,Jan  ,2022,18231
+Kazakhstan,Feb  ,2022,18528
+Kazakhstan,Mar  ,2022,18947
+Slovakia,Jan  ,2022,16665
+Slovakia,Feb  ,2022,17850
+Slovakia,Mar  ,2022,18530
+Paraguay,Jan  ,2022,16629
+Paraguay,Feb  ,2022,17260
+Paraguay,Mar  ,2022,18359
+Sweden,Jan  ,2022,15377
+Sweden,Feb  ,2022,16245
+Sweden,Mar  ,2022,17416
+Guatemala,Jan  ,2022,16106
+Guatemala,Feb  ,2022,16379
+Guatemala,Mar  ,2022,16971
+Sri Lanka,Jan  ,2022,14995
+Sri Lanka,Feb  ,2022,15473
+Sri Lanka,Mar  ,2022,16244
+Georgia,Jan  ,2022,13860
+Georgia,Feb  ,2022,15016
+Georgia,Mar  ,2022,16199
+Morocco,Jan  ,2022,14849
+Morocco,Feb  ,2022,15400
+Morocco,Mar  ,2022,15988
+Bosnia and Herzegovina,Jan  ,2022,13442
+Bosnia and Herzegovina,Feb  ,2022,14447
+Bosnia and Herzegovina,Mar  ,2022,15459
+Serbia,Jan  ,2022,12714
+Serbia,Feb  ,2022,13629
+Serbia,Mar  ,2022,15241
+Croatia,Jan  ,2022,12538
+Croatia,Feb  ,2022,13827
+Croatia,Mar  ,2022,15069
+Austria,Jan  ,2022,13351
+Austria,Feb  ,2022,13617
+Austria,Mar  ,2022,14213
+Jordan,Jan  ,2022,12653
+Jordan,Feb  ,2022,13217
+Jordan,Mar  ,2022,13835
+Switzerland,Jan  ,2022,11921
+Switzerland,Feb  ,2022,12372
+Switzerland,Mar  ,2022,12683
+Nepal,Jan  ,2022,11594
+Nepal,Feb  ,2022,11752
+Nepal,Mar  ,2022,11938
+Moldova,Jan  ,2022,10275
+Moldova,Feb  ,2022,10666
+Moldova,Mar  ,2022,11228
+Honduras,Jan  ,2022,10434
+Honduras,Feb  ,2022,10504
+Honduras,Mar  ,2022,10775
+Israel,Jan  ,2022,8258
+Israel,Feb  ,2022,8990
+Israel,Mar  ,2022,10234
+Lebanon,Jan  ,2022,9119
+Lebanon,Feb  ,2022,9606
+Lebanon,Mar  ,2022,10091
+Azerbaijan,Jan  ,2022,8358
+Azerbaijan,Feb  ,2022,8734
+Azerbaijan,Mar  ,2022,9417
+North Macedonia,Jan  ,2022,7976
+North Macedonia,Feb  ,2022,8439
+North Macedonia,Mar  ,2022,9025
+Saudi Arabia,Jan  ,2022,8877
+Saudi Arabia,Feb  ,2022,8940
+Saudi Arabia,Mar  ,2022,8998
+Cuba,Jan  ,2022,8322
+Cuba,Feb  ,2022,8399
+Cuba,Mar  ,2022,8494
+Armenia,Jan  ,2022,7975
+Armenia,Feb  ,2022,8056
+Armenia,Mar  ,2022,8478
+Lithuania,Jan  ,2022,7404
+Lithuania,Feb  ,2022,7891
+Lithuania,Mar  ,2022,8431
+South Korea,Jan  ,2022,5625
+South Korea,Feb  ,2022,6772
+South Korea,Mar  ,2022,8170
+Panama,Jan  ,2022,7427
+Panama,Feb  ,2022,7716
+Panama,Mar  ,2022,8079
+Costa Rica,Jan  ,2022,7357
+Costa Rica,Feb  ,2022,7555
+Costa Rica,Mar  ,2022,8031
+Afghanistan,Jan  ,2022,7356
+Afghanistan,Feb  ,2022,7414
+Afghanistan,Mar  ,2022,7598
+Ethiopia,Jan  ,2022,6926
+Ethiopia,Feb  ,2022,7337
+Ethiopia,Mar  ,2022,7462
+Slovenia,Jan  ,2022,6124
+Slovenia,Feb  ,2022,6457
+Slovenia,Mar  ,2022,7049
+Uruguay,Jan  ,2022,6169
+Uruguay,Feb  ,2022,6459
+Uruguay,Mar  ,2022,6977
+Algeria,Jan  ,2022,6271
+Algeria,Feb  ,2022,6579
+Algeria,Mar  ,2022,6835
+Ireland,Jan  ,2022,6070
+Ireland,Feb  ,2022,6346
+Ireland,Mar  ,2022,6497
+Belarus,Jan  ,2022,5578
+Belarus,Feb  ,2022,6052
+Belarus,Mar  ,2022,6480
+Libya,Jan  ,2022,5710
+Libya,Feb  ,2022,6017
+Libya,Mar  ,2022,6261
+China,Jan  ,2022,5699
+China,Feb  ,2022,5700
+China,Mar  ,2022,6233
+Kenya,Jan  ,2022,5376
+Kenya,Feb  ,2022,5583
+Kenya,Mar  ,2022,5639
+Venezuela,Jan  ,2022,5324
+Venezuela,Feb  ,2022,5440
+Venezuela,Mar  ,2022,5633
+Palestine,Jan  ,2022,4934
+Palestine,Feb  ,2022,5104
+Palestine,Mar  ,2022,5513
+Zimbabwe,Jan  ,2022,4997
+Zimbabwe,Feb  ,2022,5338
+Zimbabwe,Mar  ,2022,5395
+Latvia,Jan  ,2022,4570
+Latvia,Feb  ,2022,4873
+Latvia,Mar  ,2022,5224
+Australia,Jan  ,2022,2239
+Australia,Feb  ,2022,3758
+Australia,Mar  ,2022,5171
+Denmark,Jan  ,2022,3266
+Denmark,Feb  ,2022,3755
+Denmark,Mar  ,2022,4612
+Dominican Republic,Jan  ,2022,4247
+Dominican Republic,Feb  ,2022,4307
+Dominican Republic,Mar  ,2022,4368
+Oman,Jan  ,2022,4116
+Oman,Feb  ,2022,4146
+Oman,Mar  ,2022,4244
+Puerto Rico,Jan  ,2022,3305
+Puerto Rico,Feb  ,2022,3855
+Puerto Rico,Mar  ,2022,4110
+El Salvador,Jan  ,2022,3824
+El Salvador,Feb  ,2022,3899
+El Salvador,Mar  ,2022,4071
+Namibia,Jan  ,2022,3616
+Namibia,Feb  ,2022,3967
+Namibia,Mar  ,2022,4009
+Zambia,Jan  ,2022,3730
+Zambia,Feb  ,2022,3917
+Zambia,Mar  ,2022,3952
+Sudan,Jan  ,2022,3337
+Sudan,Feb  ,2022,3533
+Sudan,Mar  ,2022,3909
+Trinidad and Tobago,Jan  ,2022,2850
+Trinidad and Tobago,Feb  ,2022,3404
+Trinidad and Tobago,Mar  ,2022,3628
+Uganda,Jan  ,2022,3294
+Uganda,Feb  ,2022,3538
+Uganda,Mar  ,2022,3588
+Albania,Jan  ,2022,3217
+Albania,Feb  ,2022,3346
+Albania,Mar  ,2022,3469
+Nigeria,Jan  ,2022,3031
+Nigeria,Feb  ,2022,3136
+Nigeria,Mar  ,2022,3142
+Kosovo,Jan  ,2022,2980
+Kosovo,Feb  ,2022,3005
+Kosovo,Mar  ,2022,3104
+Syria,Jan  ,2022,2897
+Syria,Feb  ,2022,2989
+Syria,Mar  ,2022,3075
+Cambodia,Jan  ,2022,3012
+Cambodia,Feb  ,2022,3015
+Cambodia,Mar  ,2022,3032
+Kyrgyzstan,Jan  ,2022,2802
+Kyrgyzstan,Feb  ,2022,2884
+Kyrgyzstan,Mar  ,2022,2958
+Jamaica,Jan  ,2022,2473
+Jamaica,Feb  ,2022,2658
+Jamaica,Mar  ,2022,2813
+Montenegro,Jan  ,2022,2407
+Montenegro,Feb  ,2022,2555
+Montenegro,Mar  ,2022,2676
+Botswana,Jan  ,2022,2444
+Botswana,Feb  ,2022,2581
+Botswana,Mar  ,2022,2619
+Malawi,Jan  ,2022,2364
+Malawi,Feb  ,2022,2561
+Malawi,Mar  ,2022,2615
+Kuwait,Jan  ,2022,2468
+Kuwait,Feb  ,2022,2497
+Kuwait,Mar  ,2022,2538
+Finland,Jan  ,2022,1745
+Finland,Feb  ,2022,2262
+Finland,Mar  ,2022,2386
+United Arab Emirates,Jan  ,2022,2164
+United Arab Emirates,Feb  ,2022,2243
+United Arab Emirates,Mar  ,2022,2301
+Estonia,Jan  ,2022,1938
+Estonia,Feb  ,2022,2037
+Estonia,Mar  ,2022,2248
+Mozambique,Jan  ,2022,1976
+Mozambique,Feb  ,2022,2173
+Mozambique,Mar  ,2022,2192
+Yemen,Jan  ,2022,1984
+Yemen,Feb  ,2022,2012
+Yemen,Mar  ,2022,2135
+Mongolia,Jan  ,2022,1986
+Mongolia,Feb  ,2022,2040
+Mongolia,Mar  ,2022,2096
+Senegal,Jan  ,2022,1890
+Senegal,Feb  ,2022,1946
+Senegal,Mar  ,2022,1960
+Cameroon,Jan  ,2022,1851
+Cameroon,Feb  ,2022,1880
+Cameroon,Mar  ,2022,1923
+Angola,Jan  ,2022,1757
+Angola,Feb  ,2022,1895
+Angola,Mar  ,2022,1900
+Norway,Jan  ,2022,1305
+Norway,Feb  ,2022,1465
+Norway,Mar  ,2022,1659
+Uzbekistan,Jan  ,2022,1485
+Uzbekistan,Feb  ,2022,1568
+Uzbekistan,Mar  ,2022,1636
+Rwanda,Jan  ,2022,1350
+Rwanda,Feb  ,2022,1440
+Rwanda,Mar  ,2022,1457
+Bahrain,Jan  ,2022,1394
+Bahrain,Feb  ,2022,1408
+Bahrain,Mar  ,2022,1454
+Ghana,Jan  ,2022,1287
+Ghana,Feb  ,2022,1395
+Ghana,Mar  ,2022,1442
+Eswatini,Jan  ,2022,1303
+Eswatini,Feb  ,2022,1375
+Eswatini,Mar  ,2022,1390
+Madagascar,Jan  ,2022,1027
+Madagascar,Feb  ,2022,1274
+Madagascar,Mar  ,2022,1366
+Somalia,Jan  ,2022,1333
+Somalia,Feb  ,2022,1335
+Somalia,Mar  ,2022,1348
+DR Congo,Jan  ,2022,1205
+DR Congo,Feb  ,2022,1278
+DR Congo,Mar  ,2022,1335
+Suriname,Jan  ,2022,1189
+Suriname,Feb  ,2022,1261
+Suriname,Mar  ,2022,1316
+Guyana,Jan  ,2022,1052
+Guyana,Feb  ,2022,1166
+Guyana,Mar  ,2022,1220
+Singapore,Jan  ,2022,828
+Singapore,Feb  ,2022,855
+Singapore,Mar  ,2022,1019
+Luxembourg,Jan  ,2022,916
+Luxembourg,Feb  ,2022,952
+Luxembourg,Mar  ,2022,991
+Mauritania,Jan  ,2022,863
+Mauritania,Feb  ,2022,953
+Mauritania,Mar  ,2022,979
+Guadeloupe,Jan  ,2022,831
+Guadeloupe,Feb  ,2022,873
+Guadeloupe,Mar  ,2022,918
+Mauritius,Jan  ,2022,786
+Mauritius,Feb  ,2022,786
+Mauritius,Mar  ,2022,904
+Martinique,Jan  ,2022,784
+Martinique,Feb  ,2022,832
+Martinique,Mar  ,2022,894
+Cyprus,Jan  ,2022,643
+Cyprus,Feb  ,2022,747
+Cyprus,Mar  ,2022,859
+Fiji,Jan  ,2022,698
+Fiji,Feb  ,2022,801
+Fiji,Mar  ,2022,834
+Haiti,Jan  ,2022,766
+Haiti,Feb  ,2022,804
+Haiti,Mar  ,2022,820
+Tanzania,Jan  ,2022,737
+Tanzania,Feb  ,2022,778
+Tanzania,Mar  ,2022,798
+Ivory Coast,Jan  ,2022,712
+Ivory Coast,Feb  ,2022,785
+Ivory Coast,Mar  ,2022,793
+Bahamas,Jan  ,2022,717
+Bahamas,Feb  ,2022,746
+Bahamas,Mar  ,2022,771
+Mali,Jan  ,2022,660
+Mali,Feb  ,2022,714
+Mali,Mar  ,2022,722
+Lesotho,Jan  ,2022,671
+Lesotho,Feb  ,2022,693
+Lesotho,Mar  ,2022,697
+Qatar,Jan  ,2022,618
+Qatar,Feb  ,2022,645
+Qatar,Mar  ,2022,670
+Réunion,Jan  ,2022,409
+Réunion,Feb  ,2022,500
+Réunion,Mar  ,2022,666
+Belize,Jan  ,2022,598
+Belize,Feb  ,2022,625
+Belize,Mar  ,2022,650
+French Polynesia,Jan  ,2022,636
+French Polynesia,Feb  ,2022,636
+French Polynesia,Mar  ,2022,641
+Papua New Guinea,Jan  ,2022,590
+Papua New Guinea,Feb  ,2022,597
+Papua New Guinea,Mar  ,2022,638
+Laos,Jan  ,2022,372
+Laos,Feb  ,2022,547
+Laos,Mar  ,2022,621
+Malta,Jan  ,2022,477
+Malta,Feb  ,2022,550
+Malta,Mar  ,2022,605
+Guinea,Jan  ,2022,391
+Guinea,Feb  ,2022,416
+Guinea,Mar  ,2022,440
+Cape Verde,Jan  ,2022,352
+Cape Verde,Feb  ,2022,396
+Cape Verde,Mar  ,2022,401
+French Guiana,Jan  ,2022,339
+French Guiana,Feb  ,2022,371
+French Guiana,Mar  ,2022,391
+Congo,Jan  ,2022,367
+Congo,Feb  ,2022,371
+Congo,Mar  ,2022,378
+Burkina Faso,Jan  ,2022,318
+Burkina Faso,Feb  ,2022,366
+Burkina Faso,Mar  ,2022,375
+Gambia,Jan  ,2022,343
+Gambia,Feb  ,2022,364
+Gambia,Mar  ,2022,365
+Saint Lucia,Jan  ,2022,295
+Saint Lucia,Feb  ,2022,328
+Saint Lucia,Mar  ,2022,358
+Guam,Jan  ,2022,270
+Guam,Feb  ,2022,290
+Guam,Mar  ,2022,322
+Barbados,Jan  ,2022,260
+Barbados,Feb  ,2022,279
+Barbados,Mar  ,2022,316
+Niger,Jan  ,2022,274
+Niger,Feb  ,2022,298
+Niger,Mar  ,2022,307
+Gabon,Jan  ,2022,288
+Gabon,Feb  ,2022,301
+Gabon,Mar  ,2022,303
+New Caledonia,Jan  ,2022,281
+New Caledonia,Feb  ,2022,283
+New Caledonia,Mar  ,2022,299
+Maldives,Jan  ,2022,262
+Maldives,Feb  ,2022,277
+Maldives,Mar  ,2022,297
+Liberia,Jan  ,2022,287
+Liberia,Feb  ,2022,290
+Liberia,Mar  ,2022,294
+Togo,Jan  ,2022,248
+Togo,Feb  ,2022,268
+Togo,Mar  ,2022,272
+Curaçao,Jan  ,2022,189
+Curaçao,Feb  ,2022,229
+Curaçao,Mar  ,2022,261
+Nicaragua,Jan  ,2022,217
+Nicaragua,Feb  ,2022,220
+Nicaragua,Mar  ,2022,224
+Grenada,Jan  ,2022,200
+Grenada,Feb  ,2022,210
+Grenada,Mar  ,2022,216
+Aruba,Jan  ,2022,181
+Aruba,Feb  ,2022,193
+Aruba,Mar  ,2022,211
+Chad,Jan  ,2022,181
+Chad,Feb  ,2022,190
+Chad,Mar  ,2022,190
+Djibouti,Jan  ,2022,189
+Djibouti,Feb  ,2022,189
+Djibouti,Mar  ,2022,189
+Mayotte,Jan  ,2022,185
+Mayotte,Feb  ,2022,187
+Mayotte,Mar  ,2022,187
+Equatorial Guinea,Jan  ,2022,175
+Equatorial Guinea,Feb  ,2022,182
+Equatorial Guinea,Mar  ,2022,182
+Guinea-Bissau,Jan  ,2022,149
+Guinea-Bissau,Feb  ,2022,156
+Guinea-Bissau,Mar  ,2022,167
+Benin,Jan  ,2022,161
+Benin,Feb  ,2022,163
+Benin,Mar  ,2022,163
+Seychelles,Jan  ,2022,126
+Seychelles,Feb  ,2022,142
+Seychelles,Mar  ,2022,163
+Comoros,Jan  ,2022,158
+Comoros,Feb  ,2022,159
+Comoros,Mar  ,2022,160
+Andorra,Jan  ,2022,140
+Andorra,Feb  ,2022,145
+Andorra,Mar  ,2022,151
+South Sudan,Jan  ,2022,136
+South Sudan,Feb  ,2022,137
+South Sudan,Mar  ,2022,137
+Antigua and Barbuda,Jan  ,2022,119
+Antigua and Barbuda,Feb  ,2022,127
+Antigua and Barbuda,Mar  ,2022,135
+Timor-Leste,Jan  ,2022,122
+Timor-Leste,Feb  ,2022,122
+Timor-Leste,Mar  ,2022,128
+Sierra Leone,Jan  ,2022,123
+Sierra Leone,Feb  ,2022,125
+Sierra Leone,Mar  ,2022,125
+Tajikistan,Jan  ,2022,125
+Tajikistan,Feb  ,2022,125
+Tajikistan,Mar  ,2022,125
+Bermuda,Jan  ,2022,110
+Bermuda,Feb  ,2022,116
+Bermuda,Mar  ,2022,123
+Central African Republic,Jan  ,2022,101
+Central African Republic,Feb  ,2022,110
+Central African Republic,Mar  ,2022,113
+Jersey,Jan  ,2022,89
+Jersey,Feb  ,2022,100
+Jersey,Mar  ,2022,112
+San Marino,Jan  ,2022,100
+San Marino,Feb  ,2022,109
+San Marino,Mar  ,2022,112
+U.S. Virgin Islands,Jan  ,2022,89
+U.S. Virgin Islands,Feb  ,2022,101
+U.S. Virgin Islands,Mar  ,2022,109
+Saint Vincent and the Grenadines,Jan  ,2022,83
+Saint Vincent and the Grenadines,Feb  ,2022,94
+Saint Vincent and the Grenadines,Mar  ,2022,106
+Eritrea,Jan  ,2022,76
+Eritrea,Feb  ,2022,98
+Eritrea,Mar  ,2022,103
+Gibraltar,Jan  ,2022,100
+Gibraltar,Feb  ,2022,101
+Gibraltar,Mar  ,2022,101
+Solomon Islands,Jan  ,2022,0
+Solomon Islands,Feb  ,2022,12
+Solomon Islands,Mar  ,2022,99
+Sint Maarten,Jan  ,2022,75
+Sint Maarten,Feb  ,2022,79
+Sint Maarten,Mar  ,2022,85
+Isle of Man,Jan  ,2022,67
+Isle of Man,Feb  ,2022,71
+Isle of Man,Mar  ,2022,80
+Brunei,Jan  ,2022,57
+Brunei,Feb  ,2022,59
+Brunei,Mar  ,2022,76
+Liechtenstein,Jan  ,2022,69
+Liechtenstein,Feb  ,2022,71
+Liechtenstein,Mar  ,2022,75
+São Tomé and Príncipe,Jan  ,2022,57
+São Tomé and Príncipe,Feb  ,2022,69
+São Tomé and Príncipe,Mar  ,2022,72
+British Virgin Islands,Jan  ,2022,39
+British Virgin Islands,Feb  ,2022,49
+British Virgin Islands,Mar  ,2022,62
+Iceland,Jan  ,2022,37
+Iceland,Feb  ,2022,46
+Iceland,Mar  ,2022,62
+Dominica,Jan  ,2022,47
+Dominica,Feb  ,2022,51
+Dominica,Mar  ,2022,57
+New Zealand,Jan  ,2022,51
+New Zealand,Feb  ,2022,53
+New Zealand,Mar  ,2022,56
+Monaco,Jan  ,2022,38
+Monaco,Feb  ,2022,47
+Monaco,Mar  ,2022,51
+Saint Martin,Jan  ,2022,40
+Saint Martin,Feb  ,2022,43
+Saint Martin,Mar  ,2022,44
+Saint Kitts and Nevis,Jan  ,2022,28
+Saint Kitts and Nevis,Feb  ,2022,33
+Saint Kitts and Nevis,Mar  ,2022,42
+Turks and Caicos Islands,Jan  ,2022,26
+Turks and Caicos Islands,Feb  ,2022,34
+Turks and Caicos Islands,Mar  ,2022,36
+Guernsey,Jan  ,2022,24
+Guernsey,Feb  ,2022,30
+Guernsey,Mar  ,2022,31
+Northern Mariana Islands,Jan  ,2022,13
+Northern Mariana Islands,Feb  ,2022,23
+Northern Mariana Islands,Mar  ,2022,30
+Bonaire,Jan  ,2022,23
+Bonaire,Feb  ,2022,27
+Bonaire,Mar  ,2022,28
+Faroe Islands,Jan  ,2022,14
+Faroe Islands,Feb  ,2022,18
+Faroe Islands,Mar  ,2022,28
+Greenland,Jan  ,2022,1
+Greenland,Feb  ,2022,6
+Greenland,Mar  ,2022,18
+Cayman Islands,Jan  ,2022,11
+Cayman Islands,Feb  ,2022,15
+Cayman Islands,Mar  ,2022,17
+Burundi,Jan  ,2022,14
+Burundi,Feb  ,2022,15
+Burundi,Mar  ,2022,15
+Other,Jan  ,2022,13
+Other,Feb  ,2022,13
+Other,Mar  ,2022,13
+Kiribati,Jan  ,2022,0
+Kiribati,Feb  ,2022,0
+Kiribati,Mar  ,2022,11
+Anguilla,Jan  ,2022,5
+Anguilla,Feb  ,2022,8
+Anguilla,Mar  ,2022,9
+Wallis and Futuna,Jan  ,2022,7
+Wallis and Futuna,Feb  ,2022,7
+Wallis and Futuna,Mar  ,2022,7
+Bhutan,Jan  ,2022,3
+Bhutan,Feb  ,2022,4
+Bhutan,Mar  ,2022,6
+Palau,Jan  ,2022,0
+Palau,Feb  ,2022,0
+Palau,Mar  ,2022,6
+Saint Barthélemy,Jan  ,2022,4
+Saint Barthélemy,Feb  ,2022,4
+Saint Barthélemy,Mar  ,2022,4
+Sint Eustatius,Jan  ,2022,0
+Sint Eustatius,Feb  ,2022,1
+Sint Eustatius,Mar  ,2022,3
+Montserrat,Jan  ,2022,1
+Montserrat,Feb  ,2022,1
+Montserrat,Mar  ,2022,2
+Saint Pierre and Miquelon,Jan  ,2022,0
+Saint Pierre and Miquelon,Feb  ,2022,1
+Saint Pierre and Miquelon,Mar  ,2022,1
+American Samoa,Jan  ,2022,0
+American Samoa,Feb  ,2022,0
+American Samoa,Mar  ,2022,0
+Cook Islands,Jan  ,2022,0
+Cook Islands,Feb  ,2022,0
+Cook Islands,Mar  ,2022,0
+North Korea,Jan  ,2022,0
+North Korea,Feb  ,2022,0
+North Korea,Mar  ,2022,0
+Falkland Islands,Jan  ,2022,0
+Falkland Islands,Feb  ,2022,0
+Falkland Islands,Mar  ,2022,0
+Holy See,Jan  ,2022,0
+Holy See,Feb  ,2022,0
+Holy See,Mar  ,2022,0
+Marshall Islands,Jan  ,2022,0
+Marshall Islands,Feb  ,2022,0
+Marshall Islands,Mar  ,2022,0
+Federated States of Micronesia,Jan  ,2022,0
+Federated States of Micronesia,Feb  ,2022,0
+Federated States of Micronesia,Mar  ,2022,0
+Nauru,Jan  ,2022,0
+Nauru,Feb  ,2022,0
+Nauru,Mar  ,2022,0
+Niue,Jan  ,2022,0
+Niue,Feb  ,2022,0
+Niue,Mar  ,2022,0
+Pitcairn Islands,Jan  ,2022,0
+Pitcairn Islands,Feb  ,2022,0
+Pitcairn Islands,Mar  ,2022,0
+Saba,Jan  ,2022,0
+Saba,Feb  ,2022,0
+Saba,Mar  ,2022,0
+Saint Helena,Jan  ,2022,0
+Saint Helena,Feb  ,2022,0
+Saint Helena,Mar  ,2022,0
+Samoa,Jan  ,2022,0
+Samoa,Feb  ,2022,0
+Samoa,Mar  ,2022,0
+Tokelau,Jan  ,2022,0
+Tokelau,Feb  ,2022,0
+Tokelau,Mar  ,2022,0
+Tonga,Jan  ,2022,0
+Tonga,Feb  ,2022,0
+Tonga,Mar  ,2022,0
+Turkmenistan,Jan  ,2022,0
+Turkmenistan,Feb  ,2022,0
+Turkmenistan,Mar  ,2022,0
+Tuvalu,Jan  ,2022,0
+Tuvalu,Feb  ,2022,0
+Tuvalu,Mar  ,2022,0
+Vanuatu,Jan  ,2022,0
+Vanuatu,Feb  ,2022,0
+Vanuatu,Mar  ,2022,0
